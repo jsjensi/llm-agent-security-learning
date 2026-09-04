@@ -1,6 +1,6 @@
 # 跑通 MINJA toy 实验所需的最少 Python
 
-这不是完整 Python 教程，只覆盖阅读 `code/run_minja_toy.py` 所需内容。
+这不是完整 Python 教程，只覆盖第 4、5 天亲手编写记忆检索代码所需内容。
 
 ## 1. 变量与基本类型
 
@@ -75,6 +75,6 @@ python -m pip install sentence-transformers
 
 1. 看终端最后一行错误类型。
 2. 检查是否在仓库根目录执行命令。
-3. 单独运行 `python code/run_minja_toy.py`。
+3. 单独运行你在第 4 天创建的 Python 脚本。
 4. 再运行单元测试。
 5. 不理解某个值时，在对应行前后临时加 `print()`，理解后删除。

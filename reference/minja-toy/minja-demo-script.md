@@ -26,14 +26,14 @@
 在仓库根目录执行：
 
 ```powershell
-python code/run_minja_toy.py
+python reference/minja-toy/code/run_minja_toy.py
 ```
 
 然后打开：
 
-- `data/results/summary.json`：对比每个场景的基线答案和注入后答案。
-- `data/results/minja_metrics.csv`：查看每轮恶意记录相似度、排名和 Top-k 命中。
-- `assets/minja_metrics.svg`：展示最终缩短记录相似度上升。
+- `reference/minja-toy/data/results/summary.json`：对比每个场景的基线答案和注入后答案。
+- `reference/minja-toy/data/results/minja_metrics.csv`：查看每轮恶意记录相似度、排名和 Top-k 命中。
+- `reference/minja-toy/assets/minja_metrics.svg`：展示最终缩短记录相似度上升。
 
 解释四个汇总值：
 

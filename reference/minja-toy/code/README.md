@@ -17,7 +17,7 @@
 在仓库根目录执行：
 
 ```powershell
-python code/run_minja_toy.py
+python reference/minja-toy/code/run_minja_toy.py
 ```
 
 预期摘要：
@@ -32,7 +32,7 @@ Mean utility retention: 1.00
 运行回归测试：
 
 ```powershell
-python -m unittest discover -s code -p "test_*.py" -v
+python -m unittest discover -s reference/minja-toy/code -p "test_*.py" -v
 ```
 
 也可以在 PyCharm 中打开 `minja_minimal_demo.ipynb`，按顺序运行单元格。若本机没有 Notebook 支持，直接运行脚本即可，实验内容相同。
@@ -48,7 +48,7 @@ python -m unittest discover -s code -p "test_*.py" -v
 脚本参数：
 
 ```powershell
-python code/run_minja_toy.py --top-k 3 --seed 42
+python reference/minja-toy/code/run_minja_toy.py --top-k 3 --seed 42
 ```
 
 `--data` 可指定另一份同结构 JSON，`--output-dir` 可指定结果目录。
