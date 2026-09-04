@@ -78,4 +78,3 @@ python -m pip install sentence-transformers
 3. 单独运行 `python code/run_minja_toy.py`。
 4. 再运行单元测试。
 5. 不理解某个值时，在对应行前后临时加 `print()`，理解后删除。
-

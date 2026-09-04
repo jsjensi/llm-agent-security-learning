@@ -73,4 +73,3 @@ python code/run_minja_toy.py --top-k 3 --seed 42
 论文中的攻击者只提交查询，真实 LLM 根据 indication prompt、bridging steps 和已有恶意示例生成新记录。本实验没有可用 LLM，`store_simulated_interaction()` 使用确定性测试夹具提供“模拟 LLM 轨迹”，只隔离验证记忆写入与检索部分。
 
 此外，TF-IDF 是 `all-MiniLM-L6-v2` 的离线降级方案，只能表示词面重叠，不能代表真实语义向量。三个场景均为教学用合成数据，1.00 的结果只说明测试夹具按预期工作，不说明真实系统攻击成功率为 100%。
-
