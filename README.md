@@ -17,6 +17,27 @@
 1. *Memory Injection Attacks on LLM Agents via Query-Only Interaction*
 2. *Safety in Self-Evolving LLM Agent Systems: Threats, Amplification, and Case Studies*
 
+## 一周复现成果
+
+已完成一个普通 CPU 可离线运行的 MINJA 最小机制实验：
+
+- 运行说明：`code/README.md`
+- 现场演示：`code/minja_minimal_demo.ipynb`
+- 可重复脚本：`code/run_minja_toy.py`
+- 合成输入：`data/minja_toy_records.json`
+- 实验结果：`data/results/`
+- 一页论文笔记：`notes/minja-summary.md`
+- 五分钟汇报稿：`notes/minja-demo-script.md`
+
+快速运行：
+
+```powershell
+python code/run_minja_toy.py
+python -m unittest discover -s code -p "test_*.py" -v
+```
+
+该实验只复现记忆写入、Top-k 检索与输出受影响的链路。由于没有真实 LLM，桥接推理生成由测试夹具模拟，不能将结果当作论文完整复现。
+
 ## 整理建议
 
 - 笔记、问题、代码和数据文件使用论文简称作为前缀，方便关联检索。

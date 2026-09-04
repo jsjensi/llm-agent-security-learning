@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="500"
+viewBox="0 0 900 500" role="img" aria-labelledby="title desc">
+<title id="title">Progressive shortening retrieval similarity</title>
+<desc id="desc">Poison-record cosine similarity by shortening round.</desc>
+<rect width="100%" height="100%" fill="white"/>
+<g font-family="Arial, sans-serif" fill="#202124" color="#2563eb">
+<text x="450" y="32" font-size="22" text-anchor="middle">Progressive shortening: poison similarity</text>
+<text x="450" y="55" font-size="12" text-anchor="middle">Source: local TF-IDF toy experiment</text>
+<line x1="85" y1="390.0" x2="845" y2="390.0" stroke="currentColor" opacity="0.15"/><text x="65" y="395.0" text-anchor="end">0.0</text><line x1="85" y1="310.0" x2="845" y2="310.0" stroke="currentColor" opacity="0.15"/><text x="65" y="315.0" text-anchor="end">0.2</text><line x1="85" y1="230.0" x2="845" y2="230.0" stroke="currentColor" opacity="0.15"/><text x="65" y="235.0" text-anchor="end">0.5</text><line x1="85" y1="150.0" x2="845" y2="150.0" stroke="currentColor" opacity="0.15"/><text x="65" y="155.0" text-anchor="end">0.8</text><line x1="85" y1="70.0" x2="845" y2="70.0" stroke="currentColor" opacity="0.15"/><text x="65" y="75.0" text-anchor="end">1.0</text>
+<line x1="85" y1="70" x2="85" y2="390" stroke="#202124"/>
+<line x1="85" y1="390" x2="845" y2="390" stroke="#202124"/>
+<polyline points="85.0,256.0 465.0,251.6 845.0,70.0" fill="none" stroke="currentColor" stroke-width="2"/><polyline points="85.0,270.0 465.0,216.4 845.0,70.0" fill="none" stroke="currentColor" stroke-width="3" stroke-dasharray="7 5"/><polyline points="85.0,350.2 465.0,148.2 845.0,70.0" fill="none" stroke="currentColor" stroke-width="4" stroke-dasharray="10 5"/>
+<text x="85.0" y="420" text-anchor="middle">Round 1</text><text x="465.0" y="420" text-anchor="middle">Round 2</text><text x="845.0" y="420" text-anchor="middle">Round 3</text>
+<text x="20" y="250" font-size="13" transform="rotate(-90 20 250)">Cosine similarity (0–1)</text>
+<text x="450" y="455" font-size="13" text-anchor="middle">Shortening round</text>
+<text x="450" y="482" font-size="12" text-anchor="middle">archive_redirect | checksum_redirect | handbook_redirect</text>
+</g></svg>
