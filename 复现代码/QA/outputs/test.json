@@ -1,0 +1,62 @@
+[
+    {
+        "id": "test_1",
+        "question": "Which statement about Engel's law on food economics is correct?",
+        "options": "A) As income rises, the proportion of income spent on food, declines\nB) As income rises, the proportion of income spent on food, increases\nC) As income rises, the proportion of income spent on food, remains similar\nD) As income declines, the proportion of income spent on food, declines",
+        "groundtruth": "A"
+    },
+    {
+        "id": "test_2",
+        "question": "Infants and children with a suspected food allergy e.g. cow's milk allergy/intolerance could display the following symptoms and signs:",
+        "options": "A) severe atopic dermatitis\nB) enterocolitis\nC) diarrhoea\nD) all of the above",
+        "groundtruth": "D"
+    },
+    {
+        "id": "test_3",
+        "question": "Which of the following foods might be considered a \"goitrogen\"?",
+        "options": "A) Fish\nB) Meat\nC) Rice\nD) Brassicas",
+        "groundtruth": "D"
+    },
+    {
+        "id": "test_4",
+        "question": "Risk management for chemical contaminants of food generally relies on:",
+        "options": "A) Banning of the contaminant from food\nB) Allowing levels of contamination based on what manufacturers believe is achievable\nC) Banning any food found to contain detectable amounts of the contaminants\nD) Prohibiting the introduction into commerce food containing contaminants at levels greater than a specified level (a risk-based MRL or tolerance)",
+        "groundtruth": "D"
+    },
+    {
+        "id": "test_5",
+        "question": "What role do women play in food security?",
+        "options": "A) Their main role is preparing meals.\nB) They play a central role as producers of food, managers of natural resources, income earners and caretakers of household nutrition.\nC) They weed the fields, but never plough or plant them, as only men are strong enough for those activities.\nD) Their efforts focus mainly on vegetable gardens and chickens; men are involved with cereal crops and larger livestock.",
+        "groundtruth": "B"
+    },
+    {
+        "id": "test_6",
+        "question": "A food additive is considered to be safe when:",
+        "options": "A) No evidence of human toxicity has been observed over the period of its use\nB) Estimated Daily Intake (EDI) from its presence in food is less than its ADI\nC) Its toxic effects are observed only at doses 100x the EDI\nD) Its benefits outweigh its risks",
+        "groundtruth": "B"
+    },
+    {
+        "id": "test_7",
+        "question": "What are the limitations of food balance sheets? (select all that apply)?",
+        "options": "A) No account is taken of waste or losses of food\nB) Consumption estimates give higher values than those derived from other types of surveys\nC) No information is available on the distribution of consumption within a country\nD) All of the options given are correct",
+        "groundtruth": "D"
+    },
+    {
+        "id": "test_8",
+        "question": "The two most common causes of foodborne illness in the United States and Europe are:",
+        "options": "A) Salmonella and Campylobacter\nB) Listeria and Salmonella\nC) Shigella and Staphlococcus\nD) E. coli STECs and non-STEC subtypes",
+        "groundtruth": "A"
+    },
+    {
+        "id": "test_9",
+        "question": "Although theoretically any food protein could act as a food allergen, there are eight major food allergens in Europe and North America which account for most of the allergic triggers observed in childhood. Which of the allergens pairings contains an allergen, which is not part of the group of eight major allergens?",
+        "options": "A) Cow's milk, egg\nB) Mustard seeds, lamb,\nC) Soy, peanuts\nD) Fish, shellfish",
+        "groundtruth": "B"
+    },
+    {
+        "id": "test_10",
+        "question": "The 'mad cows disease' has had the greatest impact on food choice due to which of the following?",
+        "options": "A) A difference in perception of risk\nB) Higher prices of meat\nC) Farmers or food producers not trusting the government\nD) Scientists investigating alternatives for meat",
+        "groundtruth": "A"
+    }
+]

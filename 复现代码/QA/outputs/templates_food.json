@@ -1,0 +1,188 @@
+[
+    {
+        "id": "fixed_0_0",
+        "question": "Which foods tend to be consumed in lower quantities in Wales and Scotland (as of 2020)?",
+        "options": "A) Meat\nB) Confectionary\nC) Fruits and vegetables\nD) Potatoes",
+        "groundtruth": "C"
+    },
+    {
+        "id": "fixed_0_10",
+        "question": "A food additive is considered to be safe when:",
+        "options": "A) No evidence of human toxicity has been observed over the period of its use\nB) Estimated Daily Intake (EDI) from its presence in food is less than its ADI\nC) Its toxic effects are observed only at doses 100x the EDI\nD) Its benefits outweigh its risks",
+        "groundtruth": "B"
+    },
+    {
+        "id": "fixed_0_12",
+        "question": "What role do women play in food security?",
+        "options": "A) Their main role is preparing meals.\nB) They play a central role as producers of food, managers of natural resources, income earners and caretakers of household nutrition.\nC) They weed the fields, but never plough or plant them, as only men are strong enough for those activities.\nD) Their efforts focus mainly on vegetable gardens and chickens; men are involved with cereal crops and larger livestock.",
+        "groundtruth": "B"
+    },
+    {
+        "id": "fixed_0_28",
+        "question": "What is food security?",
+        "options": "A) It relates to efforts to prevent terrorists from poisoning food supplies.\nB) It is about ensuring everyone's access to food.\nC) Its component elements include availability, utilisation, and stability, as well as access.\nD) Food security focuses primarily on ending micronutrient malnutrition.",
+        "groundtruth": "C"
+    },
+    {
+        "id": "fixed_0_58",
+        "question": "The safety of which of the following substances must be demonstrated prior to their introduction into food?",
+        "options": "A) Pesticide chemicals\nB) Substances migrating from food packaging\nC) Colour additives\nD) All of the above",
+        "groundtruth": "D"
+    },
+    {
+        "id": "fixed_0_60",
+        "question": "Infants and children with a suspected food allergy e.g. cow's milk allergy/intolerance could display the following symptoms and signs:",
+        "options": "A) severe atopic dermatitis\nB) enterocolitis\nC) diarrhoea\nD) all of the above",
+        "groundtruth": "D"
+    },
+    {
+        "id": "fixed_0_67",
+        "question": "The two most common causes of foodborne illness in the United States and Europe are:",
+        "options": "A) Salmonella and Campylobacter\nB) Listeria and Salmonella\nC) Shigella and Staphlococcus\nD) E. coli STECs and non-STEC subtypes",
+        "groundtruth": "A"
+    },
+    {
+        "id": "fixed_0_71",
+        "question": "Which of the following foods do not contain free sugars",
+        "options": "A) Cows' milk\nB) Natural unsweetened orange juice\nC) Honey\nD) Agave nectar",
+        "groundtruth": "A"
+    },
+    {
+        "id": "fixed_0_82",
+        "question": "Observational epidemiology studies have produced useful in identifying health effects of many food contaminants, but not for assessing risk, because:",
+        "options": "A) It is never possible to know whether observed effects are caused by the contaminant\nB) Human exposure though food is usually much less than exposures that have been studied\nC) Controlled animal studies provide more reliable information\nD) Reliable dose-response data are difficult to acquire and often unavailable",
+        "groundtruth": "D"
+    },
+    {
+        "id": "fixed_0_94",
+        "question": "How will climate change affect future food security?",
+        "options": "A) It will have negative impacts in most developing countries because of the increased frequency of droughts, storms and floods.\nB) The impact will be positive, because drier weather will mean less habitat for malaria mosquitoes, so fewer workers will be sick at harvest time.\nC) The impact will be positive because there will be more carbon dioxide available for plant photosynthesis.\nD) There currently is no scientific consensus as to whether climate change is occurring or whether it will over the next 50 years.",
+        "groundtruth": "A"
+    },
+    {
+        "id": "fixed_0_102",
+        "question": "On a global scale, trends are suggesting that with rising incomes and urbanization we are seeing a rise in which food commodities?",
+        "options": "A) Roots and Tubers\nB) Fruits and vegetables\nC) Beans and lentils\nD) Meat and Dairy products",
+        "groundtruth": "D"
+    },
+    {
+        "id": "fixed_0_103",
+        "question": "Intestinal motility is a complex process, orchestrated by nerves, hormones and the presence of food in the stomach. Which statement about this process is correct?",
+        "options": "A) The migrating motor complex is chiefly responsible for peristaltic movement of food after a meal has been consumed\nB) The release of insulin after eating a meal will slow the emptying of the stomach\nC) At the start of a meal, the stomach increases its \"tone\" in order to develop pressure which will lead to expulsion of its contents, via the pylorus\nD) The presence of partially digested fat and starch in the duodenum, slows intestinal motility",
+        "groundtruth": "D"
+    },
+    {
+        "id": "fixed_0_129",
+        "question": "Are GM foods a valuable tool with which to address global food security and climate change?",
+        "options": "A) No, because they may cause cancer and have other unknown health effects thus making them unacceptable to consumers\nB) Yes, because they can provide us with a more abundant and economical food supply for the world as well as continued improvement in nutritional quality\nC) Yes, because they are cheaper than non-GM foods\nD) No, because GM foods cannot adapt to the rate of climate change",
+        "groundtruth": "B"
+    },
+    {
+        "id": "fixed_0_132",
+        "question": "The 'mad cows disease' has had the greatest impact on food choice due to which of the following?",
+        "options": "A) A difference in perception of risk\nB) Higher prices of meat\nC) Farmers or food producers not trusting the government\nD) Scientists investigating alternatives for meat",
+        "groundtruth": "A"
+    },
+    {
+        "id": "fixed_0_154",
+        "question": "Was T.R. Malthus correct in concluding that population growth will outstrip food production growth?",
+        "options": "A) No, technological and institutional innovations have permitted food supplies to more than keep pace with population growth.\nB) Yes, it is only because of widespread famines that population has not overwhelmed food supplies altogether.\nC) No, but it is only because of the introduction of genetically modified food that supplies have kept pace with population growth.\nD) No, but supplies are not likely to keep pace with population growth over the next 10 years.",
+        "groundtruth": "A"
+    },
+    {
+        "id": "fixed_0_164",
+        "question": "The intake of which minerals is not affected by high intakes of foods containing phytic acid?",
+        "options": "A) Calcium\nB) Potassium\nC) Zinc\nD) Iron",
+        "groundtruth": "B"
+    },
+    {
+        "id": "fixed_0_166",
+        "question": "Inviduals suffering from inhalant allergies may also react to cross- reacting food allergens. A person suffering from a natural latex allergy might not react to one of the following allergens",
+        "options": "A) avocado\nB) mango\nC) peach\nD) figs",
+        "groundtruth": "D"
+    },
+    {
+        "id": "fixed_0_174",
+        "question": "How many stages within the food supply chain can food availability and consumption be measured?",
+        "options": "A) 10\nB) 5\nC) 2\nD) 4",
+        "groundtruth": "B"
+    },
+    {
+        "id": "fixed_0_178",
+        "question": "Risk management for chemical contaminants of food generally relies on:",
+        "options": "A) Banning of the contaminant from food\nB) Allowing levels of contamination based on what manufacturers believe is achievable\nC) Banning any food found to contain detectable amounts of the contaminants\nD) Prohibiting the introduction into commerce food containing contaminants at levels greater than a specified level (a risk-based MRL or tolerance)",
+        "groundtruth": "D"
+    },
+    {
+        "id": "fixed_0_199",
+        "question": "In terms of price per calorie, which of the following foods is the cheapest and most nutritious?",
+        "options": "A) Apple\nB) Slice of bread\nC) Cheese burger\nD) Broccoli",
+        "groundtruth": "C"
+    },
+    {
+        "id": "fixed_0_210",
+        "question": "Food allergies:",
+        "options": "A) Are avoidable if the allergic agents are not allowed to exceed specified limits\nB) Are a form of food intolerance\nC) Usually occur only after an individual has been sensitized by prior exposure\nD) Are uncomfortable but generally of little medical concern",
+        "groundtruth": "C"
+    },
+    {
+        "id": "fixed_0_223",
+        "question": "Since the 1996 World Food Summit, how has the number of food insecure people in the world changed?",
+        "options": "A) The Summit's goal of cutting the number of hungry people in half by 2015 was achieved.\nB) The number decreased, but not by nearly enough to meet the Summit's goal.\nC) The number increased slightly.\nD) Because of rising food prices, the number increased dramatically.",
+        "groundtruth": "B"
+    },
+    {
+        "id": "fixed_0_225",
+        "question": "What caused the food-price spike of 2007-2008?",
+        "options": "A) Long-term neglect of agricultural and rural development caused the spike.\nB) The use of food crops to produce biofuel caused food prices to rise.\nC) It was caused by commodity price speculation.\nD) All of the above were among the causes.",
+        "groundtruth": "D"
+    },
+    {
+        "id": "fixed_0_226",
+        "question": "Toxicity and dose-response data from animal studies, together with data of which of the following types, are used to evaluate the safety of a food substance?",
+        "options": "A) Rates of consumption of the food to which the substance is added\nB) The concentration of the substance in food\nC) The daily intake of the substance by humans consuming the food\nD) The total amount of the substance a person will consume over a lifetime",
+        "groundtruth": "C"
+    },
+    {
+        "id": "fixed_0_245",
+        "question": "What are the limitations of food balance sheets? (select all that apply)?",
+        "options": "A) No account is taken of waste or losses of food\nB) Consumption estimates give higher values than those derived from other types of surveys\nC) No information is available on the distribution of consumption within a country\nD) All of the options given are correct",
+        "groundtruth": "D"
+    },
+    {
+        "id": "fixed_0_252",
+        "question": "What are the effects of globalisation on food security?",
+        "options": "A) Wealthy countries subsidies and trade barriers make it difficult for developing countries to take advantage of the potential of globalisation for advancing food security.\nB) World Trade Organisation rules do not cover agriculture, so globalisation really has no bearing on food security.\nC) Supermarkets are so far the only way in which food and agriculture have experienced globalisation.\nD) Developing countries need to create publicly-owned food reserves in order to realise the potential benefits.",
+        "groundtruth": "A"
+    },
+    {
+        "id": "fixed_0_254",
+        "question": "Which statement about Engel's law on food economics is correct?",
+        "options": "A) As income rises, the proportion of income spent on food, declines\nB) As income rises, the proportion of income spent on food, increases\nC) As income rises, the proportion of income spent on food, remains similar\nD) As income declines, the proportion of income spent on food, declines",
+        "groundtruth": "A"
+    },
+    {
+        "id": "fixed_0_267",
+        "question": "Which of the following foods might be considered a \"goitrogen\"?",
+        "options": "A) Fish\nB) Meat\nC) Rice\nD) Brassicas",
+        "groundtruth": "D"
+    },
+    {
+        "id": "fixed_0_270",
+        "question": "Food supplements, including trace minerals and vitamins are frequently advertised with promising health benefits. Which of the following substance could be consumed in excess, i.e. well above the recommended daily requirement?",
+        "options": "A) Vitamin C\nB) Vitamin D\nC) Zinc\nD) Vitamin A",
+        "groundtruth": "A"
+    },
+    {
+        "id": "fixed_0_271",
+        "question": "The thermic effect of food",
+        "options": "A) is substantially higher for carbohydrate than for protein\nB) is accompanied by a slight decrease in body core temperature.\nC) is partly related to sympathetic activity stimulation in the postprandial phase\nD) is not attenuated by food malabsorption.",
+        "groundtruth": "C"
+    },
+    {
+        "id": "fixed_0_282",
+        "question": "Although theoretically any food protein could act as a food allergen, there are eight major food allergens in Europe and North America which account for most of the allergic triggers observed in childhood. Which of the allergens pairings contains an allergen, which is not part of the group of eight major allergens?",
+        "options": "A) Cow's milk, egg\nB) Mustard seeds, lamb,\nC) Soy, peanuts\nD) Fish, shellfish",
+        "groundtruth": "B"
+    }
+]

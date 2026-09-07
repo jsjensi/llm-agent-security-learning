@@ -1,0 +1,1838 @@
+[
+    {
+        "id": "fixed_0_0",
+        "question": "Which foods tend to be consumed in lower quantities in Wales and Scotland (as of 2020)?",
+        "options": "A) Meat\nB) Confectionary\nC) Fruits and vegetables\nD) Potatoes",
+        "groundtruth": "C"
+    },
+    {
+        "id": "fixed_0_1",
+        "question": "In which one of the following circumstances will the prevalence of a disease in the population increase, all else being constant?",
+        "options": "A) If the incidence rate of the disease falls.\nB) If survival time with the disease increases.\nC) If recovery of the disease is faster.\nD) If the population in which the disease is measured increases.",
+        "groundtruth": "B"
+    },
+    {
+        "id": "fixed_0_2",
+        "question": "Which of the following statements is correct?",
+        "options": "A) The flavonoid class comprises flavonoids and isoflavonoids.\nB) The digestibility and bioavailability of isoflavones in soya food products are not changed by processing.\nC) \u00df-Carotene and lycopene can both act as provitamin A.\nD) Carotenoids and flavonoids both belong to the polyphenol class.",
+        "groundtruth": "A"
+    },
+    {
+        "id": "fixed_0_3",
+        "question": "What are the main causes of the obesity epidemic?",
+        "options": "A) Increased energy quantity/density and a more sedentary life-style\nB) Decreased leisure time activity\nC) Changes in genetic profiles\nD) None of the options given is correct",
+        "groundtruth": "A"
+    },
+    {
+        "id": "fixed_0_4",
+        "question": "Which vitamin is a major lipid-soluble antioxidant in cell membranes?",
+        "options": "A) Vitamin A\nB) Vitamin D\nC) Vitamin E\nD) Vitamin K",
+        "groundtruth": "C"
+    },
+    {
+        "id": "fixed_0_5",
+        "question": "Which of the following contributes to vitamin B12 deficiency in older adults?",
+        "options": "A) Reduced secretion of intrinsic factor\nB) Atrophic gastritis\nC) Helicobacter pylori infection\nD) All of the above",
+        "groundtruth": "D"
+    },
+    {
+        "id": "fixed_0_6",
+        "question": "Obesity increases the risk of endometrial cancer. Which hormone is thought to mediate this effect?",
+        "options": "A) Testosterone\nB) Oestrogen\nC) Insulin-like growth factor-1\nD) Thyroxine",
+        "groundtruth": "B"
+    },
+    {
+        "id": "fixed_0_7",
+        "question": "Which vitamin is required for calcium absorption from the small intestine?",
+        "options": "A) Vitamin A\nB) Vitamin D\nC) Vitamin E\nD) Vitamin K",
+        "groundtruth": "B"
+    },
+    {
+        "id": "fixed_0_8",
+        "question": "Which of the following statements about the metabolic demand for amino acids is correct?",
+        "options": "A) The metabolic demand is supplied only from the diet,\nB) The metabolic demand is to maintain protein turnover.\nC) The metabolic demand involves consumption of amino-acids by a number of irreversible pathways and these are either obligatory or adaptive.\nD) The metabolic demand is a fixed amount",
+        "groundtruth": "C"
+    },
+    {
+        "id": "fixed_0_9",
+        "question": "Which of the following statements about human amino acid requirements in human nutrition is correct?",
+        "options": "A) The amino acid requirements determined for adults is assumed to be the requirement pattern for all ages.\nB) The amino acid requirements determined for adults is assumed to be the requirements for maintenance for all ages.\nC) The amino acid pattern of breast milk is assumed to be the requirement pattern for all children.\nD) The amino acid pattern of human tissue protein is assumed to be the requirement patterns for infants and young children.",
+        "groundtruth": "B"
+    },
+    {
+        "id": "fixed_0_10",
+        "question": "A food additive is considered to be safe when:",
+        "options": "A) No evidence of human toxicity has been observed over the period of its use\nB) Estimated Daily Intake (EDI) from its presence in food is less than its ADI\nC) Its toxic effects are observed only at doses 100x the EDI\nD) Its benefits outweigh its risks",
+        "groundtruth": "B"
+    },
+    {
+        "id": "fixed_0_11",
+        "question": "Which of the following statements is true:",
+        "options": "A) Childhood stunting before 24 months of age affects short term cognitive performance\nB) Childhood stunting before 24 months of age affects long term cognitive performance\nC) Neither of the statements are correct\nD) Both of the statements are correct",
+        "groundtruth": "D"
+    },
+    {
+        "id": "fixed_0_12",
+        "question": "What role do women play in food security?",
+        "options": "A) Their main role is preparing meals.\nB) They play a central role as producers of food, managers of natural resources, income earners and caretakers of household nutrition.\nC) They weed the fields, but never plough or plant them, as only men are strong enough for those activities.\nD) Their efforts focus mainly on vegetable gardens and chickens; men are involved with cereal crops and larger livestock.",
+        "groundtruth": "B"
+    },
+    {
+        "id": "fixed_0_13",
+        "question": "The following amino acids are all essential components of the diet:",
+        "options": "A) leucine, methionine and threonine\nB) proline, tyrosine and serine\nC) valine, glycine and arginine\nD) leucine, cysteine and glycine",
+        "groundtruth": "A"
+    },
+    {
+        "id": "fixed_0_14",
+        "question": "Which single statement about fat digestion and absorption is correct?",
+        "options": "A) Absorption of fatty acids in the intestine occurs mainly through FABP and FAT/CD36 transport proteins in the enterocytes of the distal duodenum\nB) After absorption, medium chain triglycerides (MCT) enter the lymphatic system, whereas long chain triglycerides enter the portal blood system.\nC) The products of partial digestion of triglycerides (triacylglycerols) can form mixed micelles with pancreatic cholesterol and phospholipids and this increases absorption\nD) Triglycerides (triacylglycerols) must be emulsified and digested before the fatty acids can be transported",
+        "groundtruth": "D"
+    },
+    {
+        "id": "fixed_0_15",
+        "question": "Which fatty acids found in plasma phospholipids are associated with reduced cardiovascular mortality?",
+        "options": "A) Palmitic acid (16:0)\nB) Long chain (=20 carbons) saturated and n-3 polyunsaturated fatty acids\nC) \u00e1-linolenic acid (18:3)\nD) Stearic acid (18:0)",
+        "groundtruth": "B"
+    },
+    {
+        "id": "fixed_0_16",
+        "question": "Crohn's disease:",
+        "options": "A) Always affects the colon\nB) May lead to intestinal obstruction\nC) Is best treated surgically\nD) Requires a gluten free diet",
+        "groundtruth": "B"
+    },
+    {
+        "id": "fixed_0_17",
+        "question": "Which of the following is true about the diagnosis of \"osteopenia\" or \"osteoporosis\" in North America and Western Europe",
+        "options": "A) Women over age 80 with osteopenia have above average bone mineral density for their age\nB) Fewer than 10% of women over age 50 have osteopenia\nC) Fewer than 50% of women over age 80 have osteopenia or osteoporosis\nD) Osteoporosis is defined as a bone density lower than 2.5 standard deviations below the average for age-matched controls.",
+        "groundtruth": "A"
+    },
+    {
+        "id": "fixed_0_18",
+        "question": "Which country has undergone the most rapid nutrition transition in the last two decades?",
+        "options": "A) China\nB) Sweden\nC) Britain\nD) India",
+        "groundtruth": "A"
+    },
+    {
+        "id": "fixed_0_19",
+        "question": "Acute binge drinking is associated with?",
+        "options": "A) Happy heart syndrome\nB) Home heart syndrome\nC) Beach heart syndrome\nD) Holiday heart syndrome",
+        "groundtruth": "D"
+    },
+    {
+        "id": "fixed_0_20",
+        "question": "Why are some specific indices of iron status (such as serum ferritin or transferrin receptors) generally considered to be more reliable indices of iron status, than blood haemoglobin levels are?",
+        "options": "A) Because they respond more rapidly to changes in iron levels in the diet.\nB) Because blood haemoglobin levels can also respond to a variety of other factors and insults, such as lead poisoning, chronic disease, etc.\nC) Because the specific iron indices can be measured more accurately and easily.\nD) Because haemoglobin levels vary with subject age, and between the sexes.",
+        "groundtruth": "B"
+    },
+    {
+        "id": "fixed_0_21",
+        "question": "What stable isotope is commonly given for the measurement of total body water?",
+        "options": "A) Deuterium\nB) Carbon 13\nC) Nitrogen 15\nD) Oxygen 18",
+        "groundtruth": "A"
+    },
+    {
+        "id": "fixed_0_22",
+        "question": "What are focus areas of nutritional epidemiology?",
+        "options": "A) The role of nutritional factors in causing disease in a population.\nB) How changes in food intake in the population can promote good health.\nC) Both of the options given are correct.\nD) None of the options given is correct.",
+        "groundtruth": "C"
+    },
+    {
+        "id": "fixed_0_23",
+        "question": "Which of the following diet-derived compounds have epigenetic effects?",
+        "options": "A) Butyrate\nB) Curcumin\nC) Genistein\nD) All of the options given are correct",
+        "groundtruth": "D"
+    },
+    {
+        "id": "fixed_0_24",
+        "question": "Which of the following does not occur with increasing age?",
+        "options": "A) A reduction in lean body mass\nB) A reduction in bone density\nC) An increased appetite\nD) Impaired immune function",
+        "groundtruth": "C"
+    },
+    {
+        "id": "fixed_0_25",
+        "question": "Which vitamin is required for synthesis of the blood clotting proteins?",
+        "options": "A) Vitamin A\nB) Vitamin D\nC) Vitamin E\nD) Vitamin K",
+        "groundtruth": "D"
+    },
+    {
+        "id": "fixed_0_26",
+        "question": "What the largest endogenous substrate source in the body?",
+        "options": "A) Liver glycogen\nB) Muscle glycogen\nC) Intramuscular lipid\nD) Adipose tissue",
+        "groundtruth": "D"
+    },
+    {
+        "id": "fixed_0_27",
+        "question": "Which of the following statements concerning transamination is correct?",
+        "options": "A) Only non-essential (dispensable) amino acids undergo transamination.\nB) Transamination is an irreversible reaction in amino acid catabolism.\nC) Transaminases require a coenzyme derived from vitamin B12.\nD) Transaminases require a coenzyme derived from vitamin B6.",
+        "groundtruth": "D"
+    },
+    {
+        "id": "fixed_0_28",
+        "question": "What is food security?",
+        "options": "A) It relates to efforts to prevent terrorists from poisoning food supplies.\nB) It is about ensuring everyone's access to food.\nC) Its component elements include availability, utilisation, and stability, as well as access.\nD) Food security focuses primarily on ending micronutrient malnutrition.",
+        "groundtruth": "C"
+    },
+    {
+        "id": "fixed_0_29",
+        "question": "What is the likely reason that evidence to support the relationship between dietary cholesterol and plasma LDL cholesterol levels in humans is inconclusive?",
+        "options": "A) The complexity of the mechanisms regulating the absorption of cholesterol and its export in lipoproteins.\nB) The complexity of the mechanism controlling the clearance of intestinally derived lipoproteins by the liver.\nC) The multiple intrahepatic responses to increased cellular cholesterol.\nD) All of the above.",
+        "groundtruth": "D"
+    },
+    {
+        "id": "fixed_0_30",
+        "question": "Which of the following statements about amino acid scoring for predicting protein quality in human nutrition is correct?",
+        "options": "A) The amino acid score is calculated by comparing the amino acid pattern of the protein to that of egg protein.\nB) The amino acid score is calculated by comparing the amino acid pattern of the protein to that of milk protein.\nC) A single reference pattern is used to calculate the amino acid score for all ages\nD) Different amino acid scoring patterns are used for different age groups.",
+        "groundtruth": "D"
+    },
+    {
+        "id": "fixed_0_31",
+        "question": "A 20 year old student who has recently arrived in Britain from Sudan visits the university health centre to complain of abdominal cramps and diarrhoea after drinking milk. Which of the following is the most likely cause of his problem?",
+        "options": "A) Bacterial and yeast overgrowth in the small intestine\nB) Lack of pancreatic amylase\nC) Lack of small intestinal lactase\nD) Lack of small intestinal sucrase-isomaltase",
+        "groundtruth": "C"
+    },
+    {
+        "id": "fixed_0_32",
+        "question": "Which of the following is the main nitrogenous compound in urine?",
+        "options": "A) Uric acid\nB) Ammonia\nC) Urea\nD) Creatinine",
+        "groundtruth": "C"
+    },
+    {
+        "id": "fixed_0_33",
+        "question": "It has been observed that a reduction in family size and improved sanitary condition have led to an increase in allergic conditions. The 'hygiene hypothesis' suggests that",
+        "options": "A) The frequent use of antiseptic swipes will reduce allergies\nB) Living on a working farm will help reducing the development of atopic diseases\nC) Particular care must be taken during breast feeding in high risk infants\nD) Living on a working farm will increase the development of atopic diseases",
+        "groundtruth": "B"
+    },
+    {
+        "id": "fixed_0_34",
+        "question": "Why might some biochemical (eg plasma or serum) indices of micronutrient status give misleading results in people with infections or inflammatory states?",
+        "options": "A) Because people who are sick often alter their diets, and may eat less food.\nB) Because the accuracy of some laboratory assays may be compromised in samples from people who are sick.\nC) Because some metabolic pathways are altered in sick people, which changes their micronutrient requirements.\nD) Because an acute phase reaction results in changes in inter-tissue distributions of certain micronutrients.",
+        "groundtruth": "D"
+    },
+    {
+        "id": "fixed_0_35",
+        "question": "What proportion of vegans is likely to be deficient in vitamin B12?",
+        "options": "A) 3%\nB) 32%\nC) 66%\nD) 15%",
+        "groundtruth": "B"
+    },
+    {
+        "id": "fixed_0_36",
+        "question": "Which of these factors increases the risk for cancer of the oesophagus?",
+        "options": "A) Processed meat\nB) Fruit and vegetables\nC) Salt\nD) Alcohol",
+        "groundtruth": "D"
+    },
+    {
+        "id": "fixed_0_37",
+        "question": "Which one of the following statements about protein nutrition is correct?",
+        "options": "A) There is a requirement for dietary protein, but it is unimportant which protein is consumed.\nB) The requirement for dietary protein is for individual amino acids, not simply the total amount of protein in the diet.\nC) All dietary proteins have the same amino acid content and composition.\nD) For an adult in nitrogen equilibrium there is only a small requirement for an intake of protein since amino acids arising from tissue protein catabolism are available for new protein synthesis.",
+        "groundtruth": "B"
+    },
+    {
+        "id": "fixed_0_38",
+        "question": "Higher dietary sodium (salt) intake is generally associated with:",
+        "options": "A) Decreased calcium excretion in the urine\nB) Increased risk of fracture\nC) Decreased dietary calcium absorption\nD) Negative calcium balance and bone mineral loss",
+        "groundtruth": "D"
+    },
+    {
+        "id": "fixed_0_39",
+        "question": "Which of the following is a function of vitamin B6?",
+        "options": "A) Synthesis of TMP (thymidine monophosphate)\nB) Decarboxylation of amino acids to form amine neurotransmitters\nC) Synthesis of methionine from homocysteine\nD) Carboxylation of pyruvate to oxaloacetate",
+        "groundtruth": "B"
+    },
+    {
+        "id": "fixed_0_40",
+        "question": "Which of the following statements is/are true?\nThere is increasing concern about the importance of adequate nutrition in the pre-conception period to support a successful pregnancy. This is because:",
+        "options": "A) in the embryonic period the foetus is vulnerable to external factors in its environment\nB) the embryonic period often occurs before a woman knows she is pregnant\nC) interventions in late pregnancy may be too late to be effective\nD) all of the options given are correct",
+        "groundtruth": "D"
+    },
+    {
+        "id": "fixed_0_41",
+        "question": "Which of the following best explains the antioxidant action of vitamin E?",
+        "options": "A) It forms a stable radical that can be reduced back to active vitamin E by reaction with vitamin C\nB) It is converted to a stable radical by reaction with vitamin C\nC) It is lipid soluble and can react with free radicals in the bloodstream resulting from nitric oxide formation by vascular epithelium\nD) It forms a stable radical that can be reduced back to active vitamin E by reaction with glutathione and glutathione peroxidase",
+        "groundtruth": "A"
+    },
+    {
+        "id": "fixed_0_42",
+        "question": "Which of these factors increases the risk for cancer of the stomach?",
+        "options": "A) Obesity\nB) Sugar\nC) Salt and salt-preserved foods\nD) Dietary fibre",
+        "groundtruth": "C"
+    },
+    {
+        "id": "fixed_0_43",
+        "question": "What are the main enzyme systems for catalysing ethanol to acetaldehyde?",
+        "options": "A) Alcohol dehydrogenase (ADH)\nB) Catalase\nC) Alcohol dehydrogenase (ADH), cytochrome P450 2E1 (CYP2EI), catalase\nD) cytochrome P450 2E1 (CYP2EI)",
+        "groundtruth": "C"
+    },
+    {
+        "id": "fixed_0_44",
+        "question": "In a healthy person maintaining energy balance in equilibrium (i.e. mathematical equality of energy intake and energy expenditure) is generally achieved on a:",
+        "options": "A) day-to-day basis\nB) 2-3 day basis\nC) 3-4 day basis\nD) 1-2 week basis",
+        "groundtruth": "D"
+    },
+    {
+        "id": "fixed_0_45",
+        "question": "Which of the following statements is incorrect regarding fatty acid \u00df-oxidation?",
+        "options": "A) The major site of fatty acid \u00df-oxidation is the peroxisomes, the mitochondria also contain enzymes for this pathway\nB) Within the liver peroxisomes serve to oxidise very long chain fatty acids to medium chain products\nC) The rate of b-oxidation is regulated by the availability of fatty acids and the rate of utilisation of b-oxidation products\nD) Peroxisomes are the site for the degradation of xenobiotics and eicosanoids",
+        "groundtruth": "A"
+    },
+    {
+        "id": "fixed_0_46",
+        "question": "Intestinal lactase deficiency leads to lactose maldigestion which subsequently can lead to lactose intolerance, i.e. causing clinical symptoms. Infants and children normally express sufficient lactase levels as not to experience clinical symptoms. Overall, adults can be classified as lactase-persisters or lactase non-persisters. What is the approximate percentage of Lactase non-persisters worldwide?",
+        "options": "A) 45%-50%\nB) 70%-75 %\nC) 10%-15%\nD) 30%-35%",
+        "groundtruth": "B"
+    },
+    {
+        "id": "fixed_0_47",
+        "question": "Which of the following vitamins provides the coenzyme for carboxylation reactions?",
+        "options": "A) Biotin\nB) Niacin\nC) Riboflavin\nD) Thiamin",
+        "groundtruth": "A"
+    },
+    {
+        "id": "fixed_0_48",
+        "question": "According to trials on diabetes prevention, high-risk individuals can reduce their risk to develop diabetes by doing the following:",
+        "options": "A) Eating a very low carbohydrate diet\nB) Consuming a diet high in monounsaturated fats\nC) Losing 5-7% of body weight through a hypocaloric low fat diet and 30 minutes of daily activity\nD) Initiating metformin 850 mg BID and practicing daily vigorous exercise",
+        "groundtruth": "C"
+    },
+    {
+        "id": "fixed_0_49",
+        "question": "IBS",
+        "options": "A) Is primarily a psychological problem\nB) Is a contra-indication to colonoscopy\nC) May be associated with constipation\nD) always resolves with a gluten free diet.",
+        "groundtruth": "C"
+    },
+    {
+        "id": "fixed_0_50",
+        "question": "The gut microbes metabolize L-carnitine into which metabolite that has been shown increase cardiovascular disease?",
+        "options": "A) choline\nB) betaine\nC) Trimethylamine\nD) All of the above",
+        "groundtruth": "C"
+    },
+    {
+        "id": "fixed_0_51",
+        "question": "Which of the following statements is correct?",
+        "options": "A) Sulfur dioxide is not used in foods containing thiamin because it causes destruction of the vitamin\nB) Sulfur dioxide is not used in foods containing niacin because it causes destruction of the vitamin\nC) Sulfur dioxide is not used in foods containing vitamin E because it causes destruction of the vitamin\nD) Sulfur dioxide is not used in foods containing vitamin C because it causes destruction of the vitamin",
+        "groundtruth": "A"
+    },
+    {
+        "id": "fixed_0_52",
+        "question": "Eosinophilic oesophagitis",
+        "options": "A) Leads to oesophageal diverticular\nB) May cause oesopgageal obstruction\nC) Is not due to allergy\nD) Benefits from antacid therapy",
+        "groundtruth": "B"
+    },
+    {
+        "id": "fixed_0_53",
+        "question": "Which of the following vitamins is required for fatty acid b-oxidation?",
+        "options": "A) Niacin\nB) Riboflavin\nC) Thiamin\nD) Vitamin C",
+        "groundtruth": "B"
+    },
+    {
+        "id": "fixed_0_54",
+        "question": "Children who are obese should:",
+        "options": "A) Follow a different diet to the rest of the family\nB) Eat the same and take more exercise\nC) Reduce their total energy intake, increase their activity level and reduce their screen time\nD) Eat more fruit and vegetables",
+        "groundtruth": "C"
+    },
+    {
+        "id": "fixed_0_55",
+        "question": "Which of the treatments below has not demonstrated efficacy in BED",
+        "options": "A) Cognitive Behavioural Therapy\nB) Antidepressants (Fluoxetine, Sertraline)\nC) Antiobesity agents (Orlistat, Sibutramine)\nD) Benzodizepines (Diazepam, Alprazolam)",
+        "groundtruth": "D"
+    },
+    {
+        "id": "fixed_0_56",
+        "question": "Which of the following is a function of biotin?",
+        "options": "A) Decarboxylation of amino acids to form amine neurotransmitters\nB) Synthesis of methionine from homocysteine\nC) Carboxylation of pyruvate to oxaloacetate\nD) Synthesis of methylene tetrahydrofolate",
+        "groundtruth": "C"
+    },
+    {
+        "id": "fixed_0_57",
+        "question": "How is iron transported in the circulation from the intestine to the sites of metabolism in the body?",
+        "options": "A) As simple Fe2+ in the serum\nB) Bound to albumin\nC) Bound to ferritin\nD) Bound to transferrin",
+        "groundtruth": "D"
+    },
+    {
+        "id": "fixed_0_58",
+        "question": "The safety of which of the following substances must be demonstrated prior to their introduction into food?",
+        "options": "A) Pesticide chemicals\nB) Substances migrating from food packaging\nC) Colour additives\nD) All of the above",
+        "groundtruth": "D"
+    },
+    {
+        "id": "fixed_0_59",
+        "question": "Select the single most accurate statement about the absorptive area of the human intestine?",
+        "options": "A) The absorptive area is equivalent to that of a tennis court\nB) All of the options given are correct\nC) Changes in motility increase the contact time between nutrients and absorptive surface\nD) The presence of folds, villi and microvilli on the surface of enterocytes magnifies the absorptive area",
+        "groundtruth": "B"
+    },
+    {
+        "id": "fixed_0_60",
+        "question": "Infants and children with a suspected food allergy e.g. cow's milk allergy/intolerance could display the following symptoms and signs:",
+        "options": "A) severe atopic dermatitis\nB) enterocolitis\nC) diarrhoea\nD) all of the above",
+        "groundtruth": "D"
+    },
+    {
+        "id": "fixed_0_61",
+        "question": "High intake of which of these dietary components predisposes to accelerated cognitive decline",
+        "options": "A) High glycaemic index carbohydrates\nB) A high n-6:n-3 fat ratio\nC) Long chain saturated fats\nD) All of the above",
+        "groundtruth": "D"
+    },
+    {
+        "id": "fixed_0_62",
+        "question": "Which of the following statements is/are true?\nHow can smoking affect breastfeeding?",
+        "options": "A) Suppresses milk production\nB) Alters the composition of breast milk\nC) Increases the risk of early cessation of breastfeeding\nD) all of the options given are correct",
+        "groundtruth": "D"
+    },
+    {
+        "id": "fixed_0_63",
+        "question": "Which of the following statements about the global ageing population is correct?",
+        "options": "A) It is predicted that by 2040 over 25% of the world's population will be 65yr or older.\nB) The rate of increase in the median age of populations is greater in developing countries than wealthy countries.\nC) In older age groups men outnumber women.\nD) Men have a lower mortality rate than women, over the life course.",
+        "groundtruth": "B"
+    },
+    {
+        "id": "fixed_0_64",
+        "question": "Which of the following changes in body composition are associated with ageing in older adults?",
+        "options": "A) Increased bone mass\nB) Increased muscle mass\nC) Increased body fat\nD) All of the above",
+        "groundtruth": "C"
+    },
+    {
+        "id": "fixed_0_65",
+        "question": "What is the main source of protein in the British diet?",
+        "options": "A) Fish and fish products\nB) Pulses\nC) Meat and meat products\nD) Milk and milk products",
+        "groundtruth": "C"
+    },
+    {
+        "id": "fixed_0_66",
+        "question": "What is leptin resistance?",
+        "options": "A) Deficiency of leptin caused by a mutation in the leptin gene\nB) Lack of leptin release from the adipose tissue\nC) High concentrations of leptin without reduction in energy intake\nD) Low concentrations of leptin with increased energy intake",
+        "groundtruth": "C"
+    },
+    {
+        "id": "fixed_0_67",
+        "question": "The two most common causes of foodborne illness in the United States and Europe are:",
+        "options": "A) Salmonella and Campylobacter\nB) Listeria and Salmonella\nC) Shigella and Staphlococcus\nD) E. coli STECs and non-STEC subtypes",
+        "groundtruth": "A"
+    },
+    {
+        "id": "fixed_0_68",
+        "question": "Bariatric surgery is used for obesity treatment but how much is the incidence of type 2 diabetes reduced in obese individuals after surgery?",
+        "options": "A) 80-90%\nB) No reduction in the incidence\nC) Approximately 50 %\nD) None of the options given is correct",
+        "groundtruth": "A"
+    },
+    {
+        "id": "fixed_0_69",
+        "question": "What are the disadvantages of identifying under-reporting of usual intake using the doubly labelled water technique?",
+        "options": "A) It uses a sophisticated analytical technique\nB) It provides a marker for energy intake only\nC) Mis-reporting of low energy content foods would not be identified\nD) All of the options given are correct",
+        "groundtruth": "D"
+    },
+    {
+        "id": "fixed_0_70",
+        "question": "Facial flushing is seen in approximately 50% of East Asians and is thought to be due to a deficiency of?",
+        "options": "A) ALDH1\nB) ALDH2\nC) ALDH3\nD) ALDH4",
+        "groundtruth": "B"
+    },
+    {
+        "id": "fixed_0_71",
+        "question": "Which of the following foods do not contain free sugars",
+        "options": "A) Cows' milk\nB) Natural unsweetened orange juice\nC) Honey\nD) Agave nectar",
+        "groundtruth": "A"
+    },
+    {
+        "id": "fixed_0_72",
+        "question": "Which of the following inborn errors of metabolism gives rise to zinc deficiency?",
+        "options": "A) Acrodermatitis enteropathica\nB) Wilson's disease\nC) Menkes disease\nD) Haemochromatosis",
+        "groundtruth": "A"
+    },
+    {
+        "id": "fixed_0_73",
+        "question": "Ulcerative Colitis",
+        "options": "A) Carries a risk of colonic cancer\nB) Can be treated with a LOFFLEX diet\nC) Can be caused by small intestinal bacterial overgrowth\nD) Can be caused by milk intolerance",
+        "groundtruth": "A"
+    },
+    {
+        "id": "fixed_0_74",
+        "question": "What characteristic is not representative of a type IIb muscle fibre?",
+        "options": "A) Low oxidative capacity\nB) High fatigue resistance\nC) High motor unit strength\nD) Fast contractile speed",
+        "groundtruth": "B"
+    },
+    {
+        "id": "fixed_0_75",
+        "question": "Which of the following statements is not true?",
+        "options": "A) Vegan diets are likely to be deficient in protein\nB) Cereals are deficient in lysine\nC) Legumes are deficient in methionine\nD) Dairy products are rich source of tryptophan",
+        "groundtruth": "A"
+    },
+    {
+        "id": "fixed_0_76",
+        "question": "Intestinal failiure:",
+        "options": "A) Always requires parenteral nutritional suport\nB) May follow colectomy\nC) Is always permanent\nD) May benefit from sodium supplementation of >=90mmol/l",
+        "groundtruth": "D"
+    },
+    {
+        "id": "fixed_0_77",
+        "question": "Which of the following statements is correct?",
+        "options": "A) Mycotoxins contaminate foods containing bacteria formed during storage under dry conditions\nB) Mycotoxins contaminate foods containing fungi formed during storage under dry conditions\nC) Mycotoxins contaminate foods containing bacteria formed during storage under moist conditions\nD) Mycotoxins contaminate foods containing fungi formed during storage under moist conditions",
+        "groundtruth": "D"
+    },
+    {
+        "id": "fixed_0_78",
+        "question": "Which of the following is true about dietary calcium:",
+        "options": "A) Typical calcium intake in most adults is between 0.5mg and 2.0mg per day\nB) Activated Vitamin D decreases absorption of dietary calcium\nC) There is clear evidence that people who consume more than the average amount of calcium have a lower risk of bone fractures.\nD) Absorption efficiency is inversely related to calcium intake, so that a higher proportion is absorbed when calcium intake is low",
+        "groundtruth": "D"
+    },
+    {
+        "id": "fixed_0_79",
+        "question": "Oral bacterial synthesise extracellular glucans (dextran and mutan) from which host dietary component?",
+        "options": "A) glucose\nB) Alpha limit dextrins\nC) Sucrose\nD) polysaccharides",
+        "groundtruth": "C"
+    },
+    {
+        "id": "fixed_0_80",
+        "question": "What is the definition of overweight?",
+        "options": "A) BMI > 25 kg/m2\nB) BMI = 25 kg/m2\nC) BMI 25-29.9 kg/m2\nD) BMI 25-30 kg/m2",
+        "groundtruth": "C"
+    },
+    {
+        "id": "fixed_0_81",
+        "question": "Pregnancy and lactation is known to:",
+        "options": "A) Decrease calcium requirements\nB) Result in bone mineral loss from the skeleton\nC) Decrease the rate of dietary calcium absorption\nD) Affect bone mineral content later in life",
+        "groundtruth": "B"
+    },
+    {
+        "id": "fixed_0_82",
+        "question": "Observational epidemiology studies have produced useful in identifying health effects of many food contaminants, but not for assessing risk, because:",
+        "options": "A) It is never possible to know whether observed effects are caused by the contaminant\nB) Human exposure though food is usually much less than exposures that have been studied\nC) Controlled animal studies provide more reliable information\nD) Reliable dose-response data are difficult to acquire and often unavailable",
+        "groundtruth": "D"
+    },
+    {
+        "id": "fixed_0_83",
+        "question": "It is correct to state that for the treatment of Bulimia Nervosa:",
+        "options": "A) Fluoxetine is considered of benefit\nB) The first approach is to discuss body image\nC) It is not useful to discuss weight with patients\nD) Treatments should target exclusively on purging practices",
+        "groundtruth": "A"
+    },
+    {
+        "id": "fixed_0_84",
+        "question": "The respiration quotient (RQ):",
+        "options": "A) is defined as the ratio of VO2 divided by VCO2.\nB) decreases on a high carbohydrate diet.\nC) increases with fasting.\nD) goes beyond a value of 1.0 when exogenous carbohydrate is converted to endogenous fat.",
+        "groundtruth": "D"
+    },
+    {
+        "id": "fixed_0_85",
+        "question": "Nitrites are added to processed meats mainly to prevent the growth of the following genus of microorganisms",
+        "options": "A) salmonella\nB) clostridium\nC) listeria\nD) campylobacter",
+        "groundtruth": "B"
+    },
+    {
+        "id": "fixed_0_86",
+        "question": "At what stage(s) during pregnancy did in utero exposure to the Dutch Hunger Winter have the biggest effects on DNA methylation in blood cells from the adult offspring?",
+        "options": "A) First trimester of pregnancy.\nB) Second trimester of pregnancy.\nC) Third trimester of pregnancy.\nD) Effects were similar at all stages of pregnancy.",
+        "groundtruth": "A"
+    },
+    {
+        "id": "fixed_0_87",
+        "question": "The body's adjustment of heat production to changes in the plane of nutrition (under- or over-nutrition) and to minimize energy imbalance is known as:",
+        "options": "A) Basal metabolic rate\nB) Thermic effect of food\nC) Adaptive thermogenesis\nD) Thermal balance",
+        "groundtruth": "C"
+    },
+    {
+        "id": "fixed_0_88",
+        "question": "Which drug(s) is/are approved for the treatment of obesity in Europe?",
+        "options": "A) Orlistat\nB) Phentermine/Topiramate\nC) Lorcaserin\nD) Naltrexone/Bupropion",
+        "groundtruth": "A"
+    },
+    {
+        "id": "fixed_0_89",
+        "question": "In order to achieve optimal nutritional status it is recommended that older adults consume:",
+        "options": "A) A high energy content diet.\nB) A high nutrient dense diet.\nC) A low energy content diet.\nD) A daily antioxidant supplement.",
+        "groundtruth": "B"
+    },
+    {
+        "id": "fixed_0_90",
+        "question": "The measurement of a specific biochemical status index for a micronutrient such as vitamin C is most likely to be useful in practice to estimate:",
+        "options": "A) The presence or risk of a clinical deficiency, such as clinical scurvy.\nB) The overall quality of a person's diet\nC) The tissue levels, or body status, of that nutrient.\nD) Overall health and freedom from disease.",
+        "groundtruth": "C"
+    },
+    {
+        "id": "fixed_0_91",
+        "question": "Which statement about protein digestion and absorption is most correct?",
+        "options": "A) The products of protein digestion may be absorbed as free amino acids or as di- or tripeptides\nB) Gastric digestion of all proteins is equally efficient because of the grinding action of the antrum\nC) Gastric zymogenic (chief) cells produce and secrete chymotrypsin, elastase and carboxypeptidase A and this initiates the process of protein digestion\nD) The products of digestion of dietary protein by luminal and brush-border enzymes are only absorbed by one of the 14 different amino acid transporters",
+        "groundtruth": "A"
+    },
+    {
+        "id": "fixed_0_92",
+        "question": "What is the density of fat free mass?",
+        "options": "A) 0.900 g/cm3\nB) 0.730 g/cm3\nC) 1.100 g/cm3\nD) None of the above",
+        "groundtruth": "C"
+    },
+    {
+        "id": "fixed_0_93",
+        "question": "In an epidemiological context, what is the population at risk?",
+        "options": "A) The proportion of a population that engage in risky behaviours.\nB) The group of people that may experience the outcome we want to study.\nC) A group of people participating in a study that may be harmful to them.\nD) The population group with the highest relative risk of disease.",
+        "groundtruth": "B"
+    },
+    {
+        "id": "fixed_0_94",
+        "question": "How will climate change affect future food security?",
+        "options": "A) It will have negative impacts in most developing countries because of the increased frequency of droughts, storms and floods.\nB) The impact will be positive, because drier weather will mean less habitat for malaria mosquitoes, so fewer workers will be sick at harvest time.\nC) The impact will be positive because there will be more carbon dioxide available for plant photosynthesis.\nD) There currently is no scientific consensus as to whether climate change is occurring or whether it will over the next 50 years.",
+        "groundtruth": "A"
+    },
+    {
+        "id": "fixed_0_95",
+        "question": "What is a major limitation of using BMI (body mass index) as a method of body fat measurements?",
+        "options": "A) It is not an accurate measure for average people\nB) It is more accurate than height-weight tables\nC) It does not distinguish between fat and fat free mass\nD) All of the above",
+        "groundtruth": "C"
+    },
+    {
+        "id": "fixed_0_96",
+        "question": "Which of the following vitamins provides the cofactor for hydroxylation reactions in collagen synthesis?",
+        "options": "A) Biotin\nB) Niacin\nC) Riboflavin\nD) Vitamin C",
+        "groundtruth": "D"
+    },
+    {
+        "id": "fixed_0_97",
+        "question": "Endurance type exercise training modulates fuel storage and substrate use. Adaptive responses include:",
+        "options": "A) lowering intramuscular lipid storage\nB) Increasing liver glycogen content\nC) Increasing muscle glycogen use during exercise\nD) Increasing intramuscular lipid use during exercise",
+        "groundtruth": "D"
+    },
+    {
+        "id": "fixed_0_98",
+        "question": "Which vitamins are most likely to be lacking in a vegan diet?",
+        "options": "A) Vitamin B1\nB) Folate\nC) Vitamin B12\nD) Vitamin A",
+        "groundtruth": "C"
+    },
+    {
+        "id": "fixed_0_99",
+        "question": "A blood sample is taken from a 45 year old man after he has broken his overnight fast by eating three slices of toast and a boiled egg. Which one of the following will be at a higher concentration than if the blood sample had been taken before breakfast?",
+        "options": "A) Alanine\nB) Glucose\nC) Ketone bodies\nD) Non-esterified (free) fatty acids",
+        "groundtruth": "B"
+    },
+    {
+        "id": "fixed_0_100",
+        "question": "In adolescence:",
+        "options": "A) Brain growth is faster than at any other stage in life\nB) Peak bone mass occurs before the growth spurt ends\nC) Girls physiologically increase their percentage body fat\nD) Type 2 obesity related diabetes remains a very rare problem",
+        "groundtruth": "C"
+    },
+    {
+        "id": "fixed_0_101",
+        "question": "In which form is selenium found in the 25 human selenoproteins?",
+        "options": "A) Selenophosphate\nB) Selenocysteine\nC) Selenohistidine\nD) Selenate",
+        "groundtruth": "B"
+    },
+    {
+        "id": "fixed_0_102",
+        "question": "On a global scale, trends are suggesting that with rising incomes and urbanization we are seeing a rise in which food commodities?",
+        "options": "A) Roots and Tubers\nB) Fruits and vegetables\nC) Beans and lentils\nD) Meat and Dairy products",
+        "groundtruth": "D"
+    },
+    {
+        "id": "fixed_0_103",
+        "question": "Intestinal motility is a complex process, orchestrated by nerves, hormones and the presence of food in the stomach. Which statement about this process is correct?",
+        "options": "A) The migrating motor complex is chiefly responsible for peristaltic movement of food after a meal has been consumed\nB) The release of insulin after eating a meal will slow the emptying of the stomach\nC) At the start of a meal, the stomach increases its \"tone\" in order to develop pressure which will lead to expulsion of its contents, via the pylorus\nD) The presence of partially digested fat and starch in the duodenum, slows intestinal motility",
+        "groundtruth": "D"
+    },
+    {
+        "id": "fixed_0_104",
+        "question": "It is possible to reduce (though not eliminate) information bias in assessment of dietary intake by",
+        "options": "A) gathering information about many different aspects of people's dietary habits.\nB) collecting data about dietary intake at the onset of a study, before people have experienced symptoms of disease.\nC) collecting data on all possible confounders.\nD) making sure that the study sample is representative of the population.",
+        "groundtruth": "B"
+    },
+    {
+        "id": "fixed_0_105",
+        "question": "To characterize a binge eating episode one must investigate the presence of:",
+        "options": "A) If patients feel that their eating habits are chaotic, regardless of meal size.\nB) The consumption of large quantities of sweets between meals.\nC) A subjective component of lack of control and an objective component of large consumption of food in a discrete period of time\nD) The feeling that one cannot choose the type of food eaten even if their quantity is kept under control.",
+        "groundtruth": "C"
+    },
+    {
+        "id": "fixed_0_106",
+        "question": "Which of the factors below is NOT considered a risk factor for Eating Disorders",
+        "options": "A) Perfectionism traits\nB) Female gender\nC) Dieting during adolescence\nD) Parental anxiety",
+        "groundtruth": "D"
+    },
+    {
+        "id": "fixed_0_107",
+        "question": "Which statement about absorption from the gastro-intestinal (GI) tract is most correct?",
+        "options": "A) The absorption of glucose is associated with sodium uptake.\nB) Fructose is absorbed more rapidly than glucose.\nC) Galactose and fructose are absorbed by the same transporter at the brush border membrane.\nD) Most water absorption along the GI tract occurs in the colon.",
+        "groundtruth": "A"
+    },
+    {
+        "id": "fixed_0_108",
+        "question": "Of the classes of dietary fatty acids which have the most beneficial effect on plasma LDL cholesterol levels?",
+        "options": "A) n-3 and n-6 polyunsaturated fatty acids\nB) Saturated and trans unsaturated fatty acids\nC) Monounsaturated fatty acids\nD) Both a and c",
+        "groundtruth": "D"
+    },
+    {
+        "id": "fixed_0_109",
+        "question": "Which of the following is not a function of vitamin D?",
+        "options": "A) Lipid-soluble antioxidant in cell membranes\nB) Fast responses to increase calcium absorption with no change in gene expression\nC) Regulation of differentiation of adipocytes\nD) Regulation of bone turnover",
+        "groundtruth": "A"
+    },
+    {
+        "id": "fixed_0_110",
+        "question": "How many kcal are there in one gram of ethanol?",
+        "options": "A) 23.5 kJ or 5.8 kcal per g\nB) 19.7 kJ or 4.1 kcal per g\nC) 29.7 kJ or 7.1 kcal per g\nD) 36.5 kJ or 8.1 kcal per g",
+        "groundtruth": "C"
+    },
+    {
+        "id": "fixed_0_111",
+        "question": "Colonic microbiome:",
+        "options": "A) Is present in babies in utero\nB) Is a cause of eosinopjhilic oesophagitis\nC) Is easily changed by probiotic supplementation\nD) May be changed with consumption of oligo-saccharides",
+        "groundtruth": "D"
+    },
+    {
+        "id": "fixed_0_112",
+        "question": "Which of the following amino acids cannot provide a substrate for gluconeogenesis?",
+        "options": "A) Leucine\nB) Tryptophan\nC) Histidine\nD) isoleucine",
+        "groundtruth": "A"
+    },
+    {
+        "id": "fixed_0_113",
+        "question": "What nutritional strategies will not improve performance during prolonged endurance type exercise?",
+        "options": "A) Carbohydrate loading\nB) Tapering\nC) The classic glycogen loading regime\nD) Exogenous carbohydrate ingestion during exercise",
+        "groundtruth": "C"
+    },
+    {
+        "id": "fixed_0_114",
+        "question": "Which body composition method would you use to measure body mineral content?",
+        "options": "A) Magnetic Resonance Imaging\nB) Dual-energy X-ray absorptiometry\nC) Isotope dilution\nD) Skinfold Thickness",
+        "groundtruth": "B"
+    },
+    {
+        "id": "fixed_0_115",
+        "question": "These factors increase risk of osteoporotic fracture:",
+        "options": "A) High bone mineral density\nB) High body weight\nC) High lean mass\nD) Poor muscle strength",
+        "groundtruth": "D"
+    },
+    {
+        "id": "fixed_0_116",
+        "question": "Fruit and vegetable consumption",
+        "options": "A) Has been associated with greater bone mineral loss in observational studies\nB) Has an uncertain relationship with skeletal health because research studies are confounded by associated lifestyle factors such as smoking, exercise and alcohol consumption\nC) Has consistently resulted in less bone loss in supplementation studies\nD) Has large effects on bone mineral loss",
+        "groundtruth": "B"
+    },
+    {
+        "id": "fixed_0_117",
+        "question": "Which are the FIVE main series of apoproteins that have been identified?",
+        "options": "A) apoA, apoB, apoC, apoD, and apoE\nB) apoA, apo(a), apoB, apoC and apoE\nC) apoA, apoB, apoC, apo E, and apoL\nD) apoB, apoC, apoD, apoE and apoM",
+        "groundtruth": "B"
+    },
+    {
+        "id": "fixed_0_118",
+        "question": "Which of the following is the yield of ATP from complete oxidation of glucose to carbon dioxide and water?",
+        "options": "A) 10\nB) 25\nC) 30\nD) 32",
+        "groundtruth": "D"
+    },
+    {
+        "id": "fixed_0_119",
+        "question": "Nutrients may pose health risks:",
+        "options": "A) When intakes exceed established ULs (Upper Levels)\nB) At any level greater than a recommended dietary intake\nC) Only when intakes are less than those required for nutritional benefits\nD) Under no known conditions of usual intake",
+        "groundtruth": "A"
+    },
+    {
+        "id": "fixed_0_120",
+        "question": "The Atherogenic Lipoprotein Phenotype (ALP) is a collection of which lipoprotein abnormalities?",
+        "options": "A) Reduced levels of HDL, a high proportion of small dense LDL and raised triglycerides\nB) Reduced levels of HDL, a high proportion of small dense LDL and normal triglycerides\nC) Raised levels of HDL, a high proportion of small dense LDL and raised triglycerides\nD) Reduced levels of HDL, a low proportion of small dense LDL and raised triglycerides",
+        "groundtruth": "A"
+    },
+    {
+        "id": "fixed_0_121",
+        "question": "The colonic microflora can be considered as \"an organ within an organ\". Which of the following statements best describes the functions of the microbiota?",
+        "options": "A) Measurement of daily dietary fibre intake underestimates the amount of fermentable material entering the colon each day\nB) All of the options given are correct\nC) Acetate, propionate and butyrate are the chief organic acids produced by anaerobic colic fermentation\nD) The establishment of an \"acetate buffer\" in the colonic lumen suppresses the growth of some pathogenic bacteria.",
+        "groundtruth": "B"
+    },
+    {
+        "id": "fixed_0_122",
+        "question": "Which of the following statements about glucose metabolism is correct?",
+        "options": "A) Glucagon increases the rate of glycolysis\nB) Glycolysis requires NADP+\nC) In glycolysis, glucose is cleaved into two three-carbon products\nD) The end-product of glycolysis in red blood cells is pyruvate",
+        "groundtruth": "C"
+    },
+    {
+        "id": "fixed_0_123",
+        "question": "What dietary component has been shown to improve hypertension in humans?",
+        "options": "A) potassium\nB) sodium\nC) polyunsaturated fatty acids\nD) cholesterol",
+        "groundtruth": "A"
+    },
+    {
+        "id": "fixed_0_124",
+        "question": "Fats normally contain triacylglycerols at concentrations of:",
+        "options": "A) 75-95%\nB) 50- 75%\nC) > 95%\nD) < 50%",
+        "groundtruth": "C"
+    },
+    {
+        "id": "fixed_0_125",
+        "question": "Which of the following statements about protein structure is correct?",
+        "options": "A) The sequence of amino acids in a protein is its tertiary structure\nB) Cross-links formed by oxidation of -SH groups of cysteine to form disulphide bridges render the amino acid unavailable to digestion.\nC) Cross-links between the &epsiv;-amino group of lysine and the carboxyl group of glutamate render the amino acid(s) unavailable for digestion.\nD) All proteins have the same secondary structure",
+        "groundtruth": "C"
+    },
+    {
+        "id": "fixed_0_126",
+        "question": "Which of the following statements about exposures is true?",
+        "options": "A) 'Exposure' refers to contact with some factor that may be harmful or beneficial to health.\nB) An exposed individual has a greater risk of disease.\nC) Dietary intake is not an 'exposure' because individuals make a choice about what they eat.\nD) High body mass index is a risk factor for a range of health conditions, therefore, it cannot be treated as a single exposure.",
+        "groundtruth": "A"
+    },
+    {
+        "id": "fixed_0_127",
+        "question": "The test for checking mean plasma glucose concentration over the previous 8-10 weeks is:",
+        "options": "A) Hemoglobin A1c\nB) Oral glucose tolerance test (OGTT)\nC) Fructosamine test\nD) Fasting plasma glucose concentration",
+        "groundtruth": "A"
+    },
+    {
+        "id": "fixed_0_128",
+        "question": "Which one of these organs has the lowest energy expenditure per unit of body mass (kg)?",
+        "options": "A) Brain\nB) Kidney\nC) Liver\nD) Skeletal Muscle",
+        "groundtruth": "D"
+    },
+    {
+        "id": "fixed_0_129",
+        "question": "Are GM foods a valuable tool with which to address global food security and climate change?",
+        "options": "A) No, because they may cause cancer and have other unknown health effects thus making them unacceptable to consumers\nB) Yes, because they can provide us with a more abundant and economical food supply for the world as well as continued improvement in nutritional quality\nC) Yes, because they are cheaper than non-GM foods\nD) No, because GM foods cannot adapt to the rate of climate change",
+        "groundtruth": "B"
+    },
+    {
+        "id": "fixed_0_130",
+        "question": "What do flavonoids (polyphenols), including isoflavones (phytoestrogens), inositol phosphates (phytates), lignans (phytoestrogens), isothiocyanates, indoles, phenols and sulphides and thiols, have in common?",
+        "options": "A) They are all sources of fibre\nB) They are all derived from plant foods\nC) They are all vitamins\nD) They are all nutrients",
+        "groundtruth": "B"
+    },
+    {
+        "id": "fixed_0_131",
+        "question": "Which of the following will increase in vitamin D deficiency?",
+        "options": "A) The plasma concentration of prothrombin\nB) The plasma concentration of preprothrombin\nC) The plasma activity of alkaline phosphatase\nD) The plasma activity of acid phosphatase",
+        "groundtruth": "C"
+    },
+    {
+        "id": "fixed_0_132",
+        "question": "The 'mad cows disease' has had the greatest impact on food choice due to which of the following?",
+        "options": "A) A difference in perception of risk\nB) Higher prices of meat\nC) Farmers or food producers not trusting the government\nD) Scientists investigating alternatives for meat",
+        "groundtruth": "A"
+    },
+    {
+        "id": "fixed_0_133",
+        "question": "Which one of the following is a definition of glycaemic index?",
+        "options": "A) The increase in blood glucose concentration after consuming the food.\nB) The increase in blood glucose concentration after consuming the food compared with that after consuming an equivalent amount of white bread.\nC) The increase in blood insulin concentration after consuming the food.\nD) The increase in blood insulin concentration after consuming the food compared with that after consuming an equivalent amount of white bread.",
+        "groundtruth": "B"
+    },
+    {
+        "id": "fixed_0_134",
+        "question": "Which of the following statements is true?\nImpaired foetal growth is described as intrauterine growth retardation (IUGR). IUGR has the same definition as:",
+        "options": "A) low birthweight (LBW)\nB) very low birthweight (VLBW)\nC) birth weight below a population threshold for gestational age\nD) pre-term birth",
+        "groundtruth": "C"
+    },
+    {
+        "id": "fixed_0_135",
+        "question": "Which statement about dietary fibre is most correct?",
+        "options": "A) The end products of it fermentation is mainly malic, succinic and propionic acids\nB) Fermentation studies in vitro, with human faeces, have shown that soluble and insoluble forms are fermented completely within 24 hours\nC) Fibre sources, such as hemicelluloses, pectins and inulin are rapidly fermented to short chain fatty acids, which have trophic effects on the colon\nD) Stool bulking occurs mainly through the action of insoluble fibres such as cellulose",
+        "groundtruth": "C"
+    },
+    {
+        "id": "fixed_0_136",
+        "question": "Which of the following is not a reason for increased risk of vitamin or mineral deficiencies among older people in high income countries?",
+        "options": "A) Low income so decreased ability to purchase nutrient-rich foods\nB) Decreased mobility and little time spend outdoors in the sunshine\nC) Decreased intrinsic factor in the stomach\nD) High nutrient requirements for tissue turnover",
+        "groundtruth": "D"
+    },
+    {
+        "id": "fixed_0_137",
+        "question": "What is the estimated global prevalence of untreated dental caries?",
+        "options": "A) 20%\nB) 40%\nC) 60%\nD) 80%",
+        "groundtruth": "B"
+    },
+    {
+        "id": "fixed_0_138",
+        "question": "Bone mineral accretion",
+        "options": "A) Is rapid in the first 10 weeks of foetal life\nB) Is slow in infancy\nC) In childhood, adolescence and young adulthood predicts risk of fracture in old age\nD) Is particularly high after the menopause in women",
+        "groundtruth": "C"
+    },
+    {
+        "id": "fixed_0_139",
+        "question": "Which of the following is not considered a diagnostic feature of Anorexia Nervosa",
+        "options": "A) Depressive symptoms\nB) Significant Weight Loss\nC) Body Image Distortion\nD) Fear of becoming fat",
+        "groundtruth": "A"
+    },
+    {
+        "id": "fixed_0_140",
+        "question": "Supplementation with long-chain fatty acids EPA and DHA during pregnancy and infancy will likely benefit the following:",
+        "options": "A) Visual performance\nB) Motor performance\nC) Behaviour disorders\nD) Memory",
+        "groundtruth": "A"
+    },
+    {
+        "id": "fixed_0_141",
+        "question": "Deficiency of thiamin in alcoholics leads to",
+        "options": "A) Wernicke-Korsakoff syndrome\nB) Cushing syndrome\nC) Fatty liver\nD) Hypogonadism",
+        "groundtruth": "A"
+    },
+    {
+        "id": "fixed_0_142",
+        "question": "In human DNA, which nucleotide base is methylated at the 5' position?",
+        "options": "A) Adenosine\nB) Thymine\nC) Cytosine\nD) Guanine",
+        "groundtruth": "C"
+    },
+    {
+        "id": "fixed_0_143",
+        "question": "Which of the following statements is correct regarding intracellular fat metabolism?",
+        "options": "A) The mechanism by which non-esterified fatty acids are taken up by cells is by diffusion only.\nB) The mechanism by which non-esterified fatty acids are taken up by cells is by a combination of diffusion and carrier-mediated transport involving fatty acid binding, translocase and transport proteins.\nC) The mechanism by which non-esterified fatty acids are taken up by cells is by a combination of diffusion and carrier-mediated transport involving fatty acid esterification, synthesis and transport proteins.\nD) The mechanism by which non-esterified fatty acids are taken up by cells is by carrier-mediated transport only involving fatty acid binding, translocase and transport proteins.",
+        "groundtruth": "B"
+    },
+    {
+        "id": "fixed_0_144",
+        "question": "Which of the following statements about the digestibility of dietary proteins is correct?",
+        "options": "A) The digestibility of plant proteins is generally less good compared to animal proteins.\nB) The digestibility of meat protein is less good compared with plant proteins.\nC) Digestibility can only be measured at the terminal ileum\nD) Digestibility can only be measured as faecal digestibility",
+        "groundtruth": "A"
+    },
+    {
+        "id": "fixed_0_145",
+        "question": "Basal Metabolic Rate (BMR):",
+        "options": "A) is measured in comfortable sitting position\nB) is unaltered in hypothyroidism and hyperthyroidism\nC) Is higher after weight gain because part of the excess weight is fat-free mass.\nD) is not altered after weight loss.",
+        "groundtruth": "C"
+    },
+    {
+        "id": "fixed_0_146",
+        "question": "What is the best method to estimate changes in body fat during weight loss?",
+        "options": "A) BMI\nB) DXA\nC) Four-compartment model\nD) MRI",
+        "groundtruth": "C"
+    },
+    {
+        "id": "fixed_0_147",
+        "question": "Which of the following statements is correct?",
+        "options": "A) Cholesterol mainly occurs in the cell walls of bacterial cells\nB) Cholesterol mainly occurs in the cell walls of mammalian cells\nC) Cholesterol mainly occurs in the cell walls of yeast cells\nD) Cholesterol mainly occurs in plant cell walls.",
+        "groundtruth": "B"
+    },
+    {
+        "id": "fixed_0_148",
+        "question": "Which of the following statements about the role of the intestine in development of obesity best describes the situation?",
+        "options": "A) Obesity occurs because gut hormone secretion becomes deranged and PYY secretion fails to give a satiety signal.\nB) The gut/brain signalling pathway controls energy intake to within 2% of requirements, even in people who are morbidly obese\nC) The problem is one of greed and gluttony, whereby people override strong satiety signals on a regular basis\nD) Flavour signals from tasty, processed food will override satiety signals even after a large meal",
+        "groundtruth": "B"
+    },
+    {
+        "id": "fixed_0_149",
+        "question": "Which of these factors is associated with an increase in the risk for prostate cancer?",
+        "options": "A) Insulin-like growth factor-1\nB) Dietary fat\nC) Alcohol\nD) Salt",
+        "groundtruth": "A"
+    },
+    {
+        "id": "fixed_0_150",
+        "question": "Which of the following is not a function of vitamin A",
+        "options": "A) Synthesis of the blood clotting proteins\nB) Activation of vitamin D receptors\nC) Activation of thyroid hormone receptors\nD) Regulation of gene expression and cell differentiation",
+        "groundtruth": "A"
+    },
+    {
+        "id": "fixed_0_151",
+        "question": "Which of the following confirmed values meet the diagnostic threshold for diabetes?",
+        "options": "A) fasting blood glucose ? 140 mg/dl\nB) random glucose > 160 mg/dl\nC) 2 hour post prandial glucose \u2265 to 126 mg/dl\nD) fasting blood glucose \u2265 126 mg/dl",
+        "groundtruth": "D"
+    },
+    {
+        "id": "fixed_0_152",
+        "question": "What is the basic functional unit of skeletal muscle tissue?",
+        "options": "A) the muscle fibre\nB) the sarcomere\nC) the myofibril\nD) the sarcoplasmic reticulum",
+        "groundtruth": "B"
+    },
+    {
+        "id": "fixed_0_153",
+        "question": "In the past two decades, interest in maternal nutrition has been heightened following the findings of epidemiological studies that show links between early experience and later health. Which of the following statements is true:",
+        "options": "A) although early life may appear to be important, observed links to risk of cardiovascular disease and type 2 diabetes can be largely explained by adult lifestyle\nB) the observed links between early experience and later health have only been seen in UK studies\nC) the epidemiological evidence shows programmed differences in physiology are only linked to events before birth\nD) the epidemiological evidence shows programmed differences in physiology are linked to events before birth and in early postnatal life",
+        "groundtruth": "D"
+    },
+    {
+        "id": "fixed_0_154",
+        "question": "Was T.R. Malthus correct in concluding that population growth will outstrip food production growth?",
+        "options": "A) No, technological and institutional innovations have permitted food supplies to more than keep pace with population growth.\nB) Yes, it is only because of widespread famines that population has not overwhelmed food supplies altogether.\nC) No, but it is only because of the introduction of genetically modified food that supplies have kept pace with population growth.\nD) No, but supplies are not likely to keep pace with population growth over the next 10 years.",
+        "groundtruth": "A"
+    },
+    {
+        "id": "fixed_0_155",
+        "question": "What are histones?",
+        "options": "A) Lipids\nB) Carbohydrates\nC) Nucleotides\nD) Proteins",
+        "groundtruth": "D"
+    },
+    {
+        "id": "fixed_0_156",
+        "question": "Which of the following statements about methods of evaluating protein quality in human nutrition is correct?",
+        "options": "A) The rat protein efficiency ratio assay, (PER), is a good method of assessing protein quality for human nutrition.\nB) The rat net protein-utilisation assay, (NPU), is the best method of assessing protein quality for human nutrition.\nC) Animal growth assays underestimate the quality of dietary proteins for human nutrition\nD) The growing rat is a good model for assessing protein quality in human nutrition.",
+        "groundtruth": "C"
+    },
+    {
+        "id": "fixed_0_157",
+        "question": "Alcohol is a major risk factor for cancer development. Which alcohol metabolite plays a prominent role in cancer development?",
+        "options": "A) fatty acid ethyl esters (FAEE)\nB) acetate\nC) acetaldehyde\nD) alcohol",
+        "groundtruth": "C"
+    },
+    {
+        "id": "fixed_0_158",
+        "question": "The body mass index (BMI) of vegetarians differs on average from meat-eaters by how much?",
+        "options": "A) 3 units of BMI\nB) 0.5 units of BMI\nC) 1 unit of BMI\nD) 2 units of BMI",
+        "groundtruth": "C"
+    },
+    {
+        "id": "fixed_0_159",
+        "question": "Which of the following statements about the diets and nutritional status of older people is correct?",
+        "options": "A) Reports suggest that older people consume less than the recommended contribution of fat to energy intake.\nB) Multiple micronutrient deficiencies are widespread in older people in high-income countries.\nC) Older people generally have a lower energy intake than younger adults.\nD) There is little variation in the dietary intake between older people.",
+        "groundtruth": "C"
+    },
+    {
+        "id": "fixed_0_160",
+        "question": "Cholesterol and fatty acids absorbed from the intestinal lumen are packaged into which types of lipoproteins and secreted from the enterocytes into the lymph?",
+        "options": "A) Chylomicrons and HDL\nB) Chylomicrons and VLDL\nC) HDL and LDL\nD) VLDL and HDL",
+        "groundtruth": "A"
+    },
+    {
+        "id": "fixed_0_161",
+        "question": "Which of the following vitamins is involved in one-carbon metabolism?",
+        "options": "A) Folate\nB) Riboflavin\nC) Thiamin\nD) Vitamin C",
+        "groundtruth": "A"
+    },
+    {
+        "id": "fixed_0_162",
+        "question": "Which of the following is not a beneficial effect of exercise in people with diabetes:",
+        "options": "A) Reduction of triglycerides\nB) Hypoglycaemia\nC) increase of insulin sensitivity\nD) help controlling hypertension",
+        "groundtruth": "B"
+    },
+    {
+        "id": "fixed_0_163",
+        "question": "Which of the following cannot be a substrate for gluconeogenesis?",
+        "options": "A) Glutamic acid\nB) Aspartic acid\nC) Palmitic acid\nD) Galactose",
+        "groundtruth": "C"
+    },
+    {
+        "id": "fixed_0_164",
+        "question": "The intake of which minerals is not affected by high intakes of foods containing phytic acid?",
+        "options": "A) Calcium\nB) Potassium\nC) Zinc\nD) Iron",
+        "groundtruth": "B"
+    },
+    {
+        "id": "fixed_0_165",
+        "question": "The pathogenesis of hyperglycemia in type 2 diabetes includes all the following mechanisms except for:",
+        "options": "A) Increased glucose production by the liver\nB) Impaired insulin secretion\nC) Decreased glucose uptake from the skeletal muscle\nD) All of the options given are correct",
+        "groundtruth": "D"
+    },
+    {
+        "id": "fixed_0_166",
+        "question": "Inviduals suffering from inhalant allergies may also react to cross- reacting food allergens. A person suffering from a natural latex allergy might not react to one of the following allergens",
+        "options": "A) avocado\nB) mango\nC) peach\nD) figs",
+        "groundtruth": "D"
+    },
+    {
+        "id": "fixed_0_167",
+        "question": "Which of the following methods is recommended to screen for malnutrition on admission to hospital?",
+        "options": "A) A 7-day food diary\nB) The MUST tool\nC) Serum albumin concentration\nD) Demi-span",
+        "groundtruth": "B"
+    },
+    {
+        "id": "fixed_0_168",
+        "question": "Which of the following in not a zinc-dependent enzyme?",
+        "options": "A) Superoxide dismutase\nB) Alkaline phosphatase\nC) Glutathione peroxidase\nD) DNA polymerase",
+        "groundtruth": "C"
+    },
+    {
+        "id": "fixed_0_169",
+        "question": "Which of the following statements about the protein requirement is correct",
+        "options": "A) The protein requirement is equal to the demand multiplied by the efficiency of utilization.\nB) The protein requirement is equal to the demand divided by the efficiency of utilization.\nC) The protein requirement can be less than the demand.\nD) The protein requirement is always the same as the demand.",
+        "groundtruth": "B"
+    },
+    {
+        "id": "fixed_0_170",
+        "question": "What dietary pattern shows most promise in preventing age related cognitive decline",
+        "options": "A) The Western diet\nB) The Mediterranean diet\nC) Neither\nD) Both",
+        "groundtruth": "B"
+    },
+    {
+        "id": "fixed_0_171",
+        "question": "What enzyme is responsible for copying methylation marks from the parental to the daughter strand of DNA during replication?",
+        "options": "A) DNMT1\nB) DNMT3a\nC) DNMT3b\nD) DNMT3L",
+        "groundtruth": "A"
+    },
+    {
+        "id": "fixed_0_172",
+        "question": "What is the worldwide prevalence of obesity?",
+        "options": "A) 11%\nB) 13%\nC) 15%\nD) 39%",
+        "groundtruth": "B"
+    },
+    {
+        "id": "fixed_0_173",
+        "question": "Lactose",
+        "options": "A) Is always the cause of milk intolerance\nB) Cannot be digested in the human gut\nC) Intolerance is present in up to 20% of the population\nD) Is excluded on a low FODMAP diet",
+        "groundtruth": "D"
+    },
+    {
+        "id": "fixed_0_174",
+        "question": "How many stages within the food supply chain can food availability and consumption be measured?",
+        "options": "A) 10\nB) 5\nC) 2\nD) 4",
+        "groundtruth": "B"
+    },
+    {
+        "id": "fixed_0_175",
+        "question": "Which of the following is a function of folate?",
+        "options": "A) Synthesis of TMP (thymidine monophosphate)\nB) Decarboxylation of amino acids to form amine neurotransmitters\nC) Synthesis of methionine from homocysteine\nD) Carboxylation of pyruvate to oxaloacetate",
+        "groundtruth": "A"
+    },
+    {
+        "id": "fixed_0_176",
+        "question": "The vitamins which are lost most readily during cooking are:",
+        "options": "A) vitamin E and niacin\nB) vitamin D and vitamin E\nC) riboflavin and vitamin C\nD) vitamin C and thiamin",
+        "groundtruth": "D"
+    },
+    {
+        "id": "fixed_0_177",
+        "question": "Doses of substances used in animal toxicity studies are usually many times greater than those experienced by people because:",
+        "options": "A) Animals are generally much less sensitive than people\nB) Such tests can detect only very large risks because of the fact that only small numbers of animals can be used\nC) It is difficult in such studies to determine whether the observed toxic effects were caused by the substance\nD) It is the only way to ensure results are applicable to people",
+        "groundtruth": "B"
+    },
+    {
+        "id": "fixed_0_178",
+        "question": "Risk management for chemical contaminants of food generally relies on:",
+        "options": "A) Banning of the contaminant from food\nB) Allowing levels of contamination based on what manufacturers believe is achievable\nC) Banning any food found to contain detectable amounts of the contaminants\nD) Prohibiting the introduction into commerce food containing contaminants at levels greater than a specified level (a risk-based MRL or tolerance)",
+        "groundtruth": "D"
+    },
+    {
+        "id": "fixed_0_179",
+        "question": "The effects of iron on certain aspects of socio-emotional development (shyness, orientation/engagement and response to unfamiliar pictures) is due to:",
+        "options": "A) The role of iron in myelination\nB) The role of iron in neurochemistry\nC) The role of iron in dopamine production\nD) None of the above",
+        "groundtruth": "C"
+    },
+    {
+        "id": "fixed_0_180",
+        "question": "Insulin deficiency is associated with",
+        "options": "A) Reduced lipolysis\nB) Increased ketogenesis\nC) Reduced gluconeogenesis\nD) Reduced proteolysis",
+        "groundtruth": "B"
+    },
+    {
+        "id": "fixed_0_181",
+        "question": "Which of the following vitamins provides the coenzyme for reduction reactions in fatty acid synthesis?",
+        "options": "A) Folate\nB) Niacin\nC) Riboflavin\nD) Vitamin B6",
+        "groundtruth": "B"
+    },
+    {
+        "id": "fixed_0_182",
+        "question": "On an average daily basis, the gross energy intake of a healthy woman is 9279 kJ, the energy content of her faeces and urine are 647 kJ and 318 kJ, respectively. Her average daily digestible energy intake and metabolisable energy intake would be, respectively,:",
+        "options": "A) 647 kJ and 318 kJ\nB) 9279-318 kJ and 9279-647 kJ\nC) 9279+318 kJ and 9279+647 kJ\nD) 9279-647 kJ and 9279-(647+318) kJ",
+        "groundtruth": "D"
+    },
+    {
+        "id": "fixed_0_183",
+        "question": "When epidemiologists judge the evidence to establish possible causes of a health outcome, they consider",
+        "options": "A) The estimated strength of the association between an exposure and the outcome.\nB) Evidence that the exposure of interest has appeared before the outcome.\nC) Evidence showing that reductions in the exposure level will reverse the risk of the outcome.\nD) All of the options given.",
+        "groundtruth": "D"
+    },
+    {
+        "id": "fixed_0_184",
+        "question": "Women who are planning a pregnancy are recommended to take a supplement of 400\u00ecg folic acid/ day before and until the end of the first trimester of pregnancy. What effect does such supplementation have on methylation of the imprinted gene IGF2 in the resulting children?",
+        "options": "A) No effect.\nB) Methylation of IGF2 is increased.\nC) Methylation of IGF2 is decreased.\nD) The effect depends on whether the child is male or female.",
+        "groundtruth": "B"
+    },
+    {
+        "id": "fixed_0_185",
+        "question": "Occasionally infants are born without a normally functioning immune system. What are the signs most suggestive of a severe combined immunodeficiency?",
+        "options": "A) Recurrent severe infections\nB) Family history of unexplained death in infancy\nC) Generalised spread of the Tuberculosis strain BCG after vaccination\nD) All of the options given are correct",
+        "groundtruth": "D"
+    },
+    {
+        "id": "fixed_0_186",
+        "question": "Fibre supplements",
+        "options": "A) May be helpful in diverticular disease\nB) Are always easily fermented by colonic bacteria\nC) Are usually derived from soluble fibre sources\nD) Should be avoided in constipation",
+        "groundtruth": "A"
+    },
+    {
+        "id": "fixed_0_187",
+        "question": "Which life-style factors do not confound the interpretation of the health of vegetarians compared with meat-eaters?",
+        "options": "A) Smoking habit\nB) Social class/position\nC) Physical activity\nD) Age",
+        "groundtruth": "D"
+    },
+    {
+        "id": "fixed_0_188",
+        "question": "Which of the following has not at one point in the past few decades been considered as a cause of the oedema of kwashiorkor?",
+        "options": "A) Altered composition of intestinal bacteria\nB) Low intake of antioxidant nutrients\nC) Sudden weaning from the breast\nD) Iron deficiency",
+        "groundtruth": "D"
+    },
+    {
+        "id": "fixed_0_189",
+        "question": "Which of the following is not a non-coding RNA?",
+        "options": "A) mRNA\nB) tRNA\nC) rRNA\nD) miRNA",
+        "groundtruth": "A"
+    },
+    {
+        "id": "fixed_0_190",
+        "question": "More and more detrimental effects of malnutrition during childhood and adult life have been identified. The effects of over nutrition e.g. overweight and obesity are less well known. Overweight and obesity are associated with which of the following",
+        "options": "A) Cardiovascular disease\nB) Breast cancer\nC) Type 2 diabetes (maturity onset)\nD) all of the options given are correct",
+        "groundtruth": "D"
+    },
+    {
+        "id": "fixed_0_191",
+        "question": "After consumption of a mixed meal, a complex cascade of events takes place that integrates fat metabolism at the whole body level. Which of the following is correct?",
+        "options": "A) Consumption of a meal leads to suppression of lipase activity within adipose tissue leading to a decrease in plasma NEFA concentrations\nB) Adipose tissue lipoprotein lipase is activated by insulin and therefore is most active following meal consumption\nC) During the postprandial period the VLDL synthesis pathway is suppressed in favour of hydrolysis of chylomicrons\nD) All options given are correct",
+        "groundtruth": "D"
+    },
+    {
+        "id": "fixed_0_192",
+        "question": "What difference will urbanisation make for hunger and malnutrition?",
+        "options": "A) No significant difference; low-income urban and rural people face similar constraints in accessing food and consume similar diets in developing countries.\nB) It will reduce poverty and hunger because these are almost entirely concentrated in rural areas.\nC) Urban dwellers depend more than rural people on purchases to acquire food, have little opportunity to grow their own food, and so are much more vulnerable to food price increases.\nD) Poor city folk eat mainly sorghum, millet, maize and root crops, so a lot more of those foods will need to be produced as the world urbanises.",
+        "groundtruth": "C"
+    },
+    {
+        "id": "fixed_0_193",
+        "question": "Which membrane fatty acids are precursors for eicosanoids?",
+        "options": "A) C20 and C22 saturated fatty acids\nB) C18 and C22 polyunsaturated fatty acids\nC) C20 and C22 monounsaturated fatty acids\nD) C20 and C22 polyunsaturated fatty acids",
+        "groundtruth": "D"
+    },
+    {
+        "id": "fixed_0_194",
+        "question": "Under conditions of metabolic or other stress, which of the following amino acids generally regarded as being dispensable may be required in greater amount than can readily be synthesised in the body?",
+        "options": "A) Glutamate\nB) Alanine\nC) Aspartate\nD) Glycine",
+        "groundtruth": "D"
+    },
+    {
+        "id": "fixed_0_195",
+        "question": "The most direct method for measuring body composition is:",
+        "options": "A) underwater weighing\nB) Skinfold test\nC) Body mass index\nD) weight",
+        "groundtruth": "A"
+    },
+    {
+        "id": "fixed_0_196",
+        "question": "What type of diet is recommended for weight maintenance?",
+        "options": "A) Low protein and low GI\nB) High protein and high GI\nC) Low protein and high GI\nD) High protein and low GI",
+        "groundtruth": "D"
+    },
+    {
+        "id": "fixed_0_197",
+        "question": "The Worldwide HIV/AIDS campaigns have made significant progress over the last years. The HIV infection rates in Europe",
+        "options": "A) Have been significantly decreasing\nB) Have been unchanged\nC) Have been increasing\nD) Are unknown",
+        "groundtruth": "B"
+    },
+    {
+        "id": "fixed_0_198",
+        "question": "For certain micronutrients, 'biochemical functional indices' have been developed, to assess the adequacy of one or more biochemical pathways that respond predictably to changes in status of that specific micronutrient. One example is serum methylmalonic acid as a biochemical functional index for vitamin B12 status. What is the primary aim of such biochemical functional index measurements?",
+        "options": "A) To achieve a better estimate of the dietary intake of the micronutrient.\nB) To overcome interference, eg by acute phase-linked effects.\nC) To correct for nutrient losses, e.g. through urinary excretion.\nD) To provide an additional status estimate that can probe critical tissue adequacy, and hence the risk of consequent clinical disease or physiological malfunction.",
+        "groundtruth": "D"
+    },
+    {
+        "id": "fixed_0_199",
+        "question": "In terms of price per calorie, which of the following foods is the cheapest and most nutritious?",
+        "options": "A) Apple\nB) Slice of bread\nC) Cheese burger\nD) Broccoli",
+        "groundtruth": "C"
+    },
+    {
+        "id": "fixed_0_200",
+        "question": "All babies lose weight after birth, you should be concerned when:",
+        "options": "A) Weight loss is 5%\nB) Weight loss is < than 10%\nC) Birth weight is not regained by day 7\nD) Weight loss in > than 10% or birth weight is not regained by day 14",
+        "groundtruth": "D"
+    },
+    {
+        "id": "fixed_0_201",
+        "question": "Which of the following statements about glucose metabolism is correct?",
+        "options": "A) All of the reactions of glycolysis are freely reversible for gluconeogenesis.\nB) Fructose cannot be used for gluconeogenesis in the liver.\nC) Red blood cells can catalyse aerobic glycolysis because they contain oxygen bound to haemoglobin.\nD) Red blood cells can only metabolise glucose by anaerobic glycolysis and the pentose phosphate pathway.",
+        "groundtruth": "D"
+    },
+    {
+        "id": "fixed_0_202",
+        "question": "Risk assessment is applied to data on toxicity and human exposure to:",
+        "options": "A) Estimate the likelihood, or probability, of a toxic effect on exposed humans\nB) To support risk management decisions for food substances\nC) To derive Allowable Daily Intakes\nD) All of the above",
+        "groundtruth": "A"
+    },
+    {
+        "id": "fixed_0_203",
+        "question": "What is the typical body composition of a normal weight young adult man?",
+        "options": "A) Fat = 17%, Fat Free Mass=83%, Intracellular Fluid= 40%, Extracellular Fluid= 20%\nB) Fat = 83%, Fat Free Mass=40%, Intracellular Fluid= 17%, Extracellular Fluid= 20%\nC) Fat = 20%, Fat Free Mass=17%, Intracellular Fluid= 40%, Extracellular Fluid= 83%\nD) Fat = 40%, Fat Free Mass=20%, Intracellular Fluid= 17%, Extracellular Fluid= 83%",
+        "groundtruth": "A"
+    },
+    {
+        "id": "fixed_0_204",
+        "question": "The critical pH below which demineralisation of tooth enamel occurs is usually around:",
+        "options": "A) 6\nB) 5.7\nC) 5.5\nD) 5",
+        "groundtruth": "C"
+    },
+    {
+        "id": "fixed_0_205",
+        "question": "The supplementation of diet with which fat soluble vitamins has been shown to reduce cardiovascular disease?",
+        "options": "A) Vitamin A and D\nB) Vitamin A and K\nC) Vitamin D and E\nD) None of the above",
+        "groundtruth": "D"
+    },
+    {
+        "id": "fixed_0_206",
+        "question": "Vitamin D deficiency can often be found as a single nutrient deficiency, that is, in an otherwise well-nourished person. The main reason this can happen is because:",
+        "options": "A) Foods containing large amounts of vitamin D are eaten by both poor and wealthy people according to various cultural reasons.\nB) The content of vitamin D in foods depends on the soil in which the food was grown so is not related to wealth or age.\nC) Most vitamin D in the body does not come from food so access to food is not an important determinant of vitamin D status.\nD) Diets containing sufficient other nutrients to promote growth can increase the requirement of vitamin D so that it becomes limiting.",
+        "groundtruth": "C"
+    },
+    {
+        "id": "fixed_0_207",
+        "question": "Water transport can occur from the lumen of the intestine to the blood stream, or from the blood stream to the intestinal lumen. Which single statement about this phenomenon, below, is actually correct?",
+        "options": "A) A \"flip-flop\" mechanism efficiently transports water directly across the enterocyte membrane\nB) Water flows into the gut from the mucosa, during digestion of starch and protein, in order to reduce luminal osmolality\nC) Water is mostly absorbed by movement between the cells lining the gut (enterocytes) via tight junctions\nD) Dietary intake of water is always greater than water movement in the small intestine",
+        "groundtruth": "B"
+    },
+    {
+        "id": "fixed_0_208",
+        "question": "Which of the following are the recommended blood pressure and lipid goals for the prevention of cardiovascular disease in adults with diabetes?",
+        "options": "A) BP < 140/90, Trig <150, LDL < 100\nB) BP < 130/85, Trig < 300, LDL < 100\nC) BP < 135/80, Trig < 200, LDL < 130\nD) BP < 130/80, Trig <150, LDL < 100",
+        "groundtruth": "D"
+    },
+    {
+        "id": "fixed_0_209",
+        "question": "Current recommendations are that:",
+        "options": "A) All babies should be exclusively breastfed until around 6 months\nB) Solids should be introduced at 4 months of age\nC) Cow's milk is appropriate for all children from 6 months\nD) Bottle feeding is more appropriate for babies than breast feeding",
+        "groundtruth": "A"
+    },
+    {
+        "id": "fixed_0_210",
+        "question": "Food allergies:",
+        "options": "A) Are avoidable if the allergic agents are not allowed to exceed specified limits\nB) Are a form of food intolerance\nC) Usually occur only after an individual has been sensitized by prior exposure\nD) Are uncomfortable but generally of little medical concern",
+        "groundtruth": "C"
+    },
+    {
+        "id": "fixed_0_211",
+        "question": "The UNICEF model of the causes of malnutrition identifies several levels of causes: immediate, underlying and basic. Which of the following is not one of the underlying causes in the UNICEF model?",
+        "options": "A) Insufficient rainfall for agriculture\nB) Inadequate access to food\nC) Inadequate care for mothers and children\nD) Insufficient health services and unhealthy environment",
+        "groundtruth": "A"
+    },
+    {
+        "id": "fixed_0_212",
+        "question": "Which statement about intestinal \"brakes\" and \"accelerators\" is FALSE?",
+        "options": "A) Dietary starch is a potent stimulator of small intestinal motility because it causes insulin release from the pancreas\nB) Food in the stomach causes gastrin release, which stimulates acid secretion\nC) Short-chain fatty acids which move from colon to caecum (reflux) promote ileo-caecal motility\nD) The arrival of lipid in the duodenum causes an immediate reduction in motility and a switch from the \"fasting\" to the \"feeding\" pattern.",
+        "groundtruth": "A"
+    },
+    {
+        "id": "fixed_0_213",
+        "question": "What is meant by the term 'functional isolation'?",
+        "options": "A) A child that is only developing one single function at the time\nB) A child that is isolated from proper nutrition and therefore not developing adequately\nC) A malnourished, apathetic child that is not receiving the same stimulation from the environment affecting his/her development negatively\nD) None of the above",
+        "groundtruth": "C"
+    },
+    {
+        "id": "fixed_0_214",
+        "question": "Which of the following proteins is not involved in the absorption of cholesterol in the small intestine?",
+        "options": "A) NPC1L1\nB) LDL receptor\nC) ACAT2\nD) ABCG5/G8",
+        "groundtruth": "B"
+    },
+    {
+        "id": "fixed_0_215",
+        "question": "What is the prevalence of alcoholic myopathy in alcoholics",
+        "options": "A) 30 to 50%\nB) 40 to 60%\nC) 20 to 40%\nD) 10 to 30%",
+        "groundtruth": "B"
+    },
+    {
+        "id": "fixed_0_216",
+        "question": "Molecules of natural polyunsaturated fatty acids in vegetable oils contain:",
+        "options": "A) 18 carbon atoms with one carbon-carbon double bond in the cis configuration\nB) 20 carbon atoms with at least two carbon-carbon double bonds in the cis configuration\nC) 18 carbon atoms with at least two carbon-carbon double bonds in the trans configuration\nD) 18 carbon atoms with at least two carbon-carbon double bonds in the cis configuration",
+        "groundtruth": "D"
+    },
+    {
+        "id": "fixed_0_217",
+        "question": "Which of the following statements is not true?",
+        "options": "A) Docosahexaenoic acid can be synthesised from linolenic acid in vegans\nB) Docosahexaenoic acid is absent from vegan diets\nC) Lack of docosahexaenoic acid in vegans causes visual and cognitive impairment\nD) Microalgae can be used to synthesise docosahexaenoic acid",
+        "groundtruth": "C"
+    },
+    {
+        "id": "fixed_0_218",
+        "question": "Which of the following statements about glycogen metabolism is correct?",
+        "options": "A) A key step in the synthesis of glycogen is the formation of UDP-glucose\nB) In muscle in the fasting state, glycogen is broken down to glucose 6-phosphate, then free glucose.\nC) Glycogen is stored mainly in the liver and brain.\nD) Glucagon increases the synthesis of glycogen",
+        "groundtruth": "A"
+    },
+    {
+        "id": "fixed_0_219",
+        "question": "The WHO made a strong recommendation that the maximum intake of free sugars by individuals within populations should be",
+        "options": "A) <5%\nB) 5-10%\nC) <10%\nD) >10%",
+        "groundtruth": "C"
+    },
+    {
+        "id": "fixed_0_220",
+        "question": "Rickets of prematurity is associated with:",
+        "options": "A) Hypocalcaemic convulsions\nB) Use of frusemide diuretic\nC) Vitamin D deficiency in the mother\nD) All of the options given are correct",
+        "groundtruth": "D"
+    },
+    {
+        "id": "fixed_0_221",
+        "question": "Which of the following diseases does obesity increase the risk of developing?",
+        "options": "A) Type 2 diabetes\nB) Cancer\nC) Cardiovascular disease\nD) All of the options given are correct",
+        "groundtruth": "D"
+    },
+    {
+        "id": "fixed_0_222",
+        "question": "Which of the following statements about the protein:energy ratio of the requirement is correct?",
+        "options": "A) Infants and children need the most protein dense food\nB) Children are most susceptible to protein deficient diets\nC) Young adults need the most protein dense food\nD) The elderly need the most protein dense food",
+        "groundtruth": "D"
+    },
+    {
+        "id": "fixed_0_223",
+        "question": "Since the 1996 World Food Summit, how has the number of food insecure people in the world changed?",
+        "options": "A) The Summit's goal of cutting the number of hungry people in half by 2015 was achieved.\nB) The number decreased, but not by nearly enough to meet the Summit's goal.\nC) The number increased slightly.\nD) Because of rising food prices, the number increased dramatically.",
+        "groundtruth": "B"
+    },
+    {
+        "id": "fixed_0_224",
+        "question": "Which of the following statements is correct?",
+        "options": "A) Starch mainly contains amylose, which is a polymer of fructose with alpha 1,4-linkages\nB) Starch mainly contains amylose, which is a polymer of glucose with alpha 1,4-linkages\nC) Starch mainly contains amylose, which is a polymer of fructose with beta 1,4-linkages\nD) Starch mainly contains amylose, which is a polymer of glucose with beta 1,4-linkages",
+        "groundtruth": "B"
+    },
+    {
+        "id": "fixed_0_225",
+        "question": "What caused the food-price spike of 2007-2008?",
+        "options": "A) Long-term neglect of agricultural and rural development caused the spike.\nB) The use of food crops to produce biofuel caused food prices to rise.\nC) It was caused by commodity price speculation.\nD) All of the above were among the causes.",
+        "groundtruth": "D"
+    },
+    {
+        "id": "fixed_0_226",
+        "question": "Toxicity and dose-response data from animal studies, together with data of which of the following types, are used to evaluate the safety of a food substance?",
+        "options": "A) Rates of consumption of the food to which the substance is added\nB) The concentration of the substance in food\nC) The daily intake of the substance by humans consuming the food\nD) The total amount of the substance a person will consume over a lifetime",
+        "groundtruth": "C"
+    },
+    {
+        "id": "fixed_0_227",
+        "question": "Epidemiological measures of effect assess the _______ between an exposure and an outcome.",
+        "options": "A) strength of the causal mechanisms\nB) strength of the reversibility\nC) strength of the association\nD) strength of a confounding factor",
+        "groundtruth": "C"
+    },
+    {
+        "id": "fixed_0_228",
+        "question": "The risk factors for type 2 diabetes mellitus include:",
+        "options": "A) family history\nB) being overweight\nC) high intake of dietary fat\nD) All of the options listed are correct",
+        "groundtruth": "D"
+    },
+    {
+        "id": "fixed_0_229",
+        "question": "The World Health Organization recommends zinc supplements for which groups of people?",
+        "options": "A) Pregnant and lactating women\nB) Children with severe malnutrition or diarrhoea\nC) All children in low income areas with high prevalence of stunting\nD) Elderly people with low incomes",
+        "groundtruth": "B"
+    },
+    {
+        "id": "fixed_0_230",
+        "question": "Which of the following statements is/are true? Epigenetic changes may be key to understanding the links between early experience and later health. They may:",
+        "options": "A) include changes in DNA methylation\nB) modify gene expression without changing the underlying DNA sequence\nC) enable one genotype to result in different phenotypes\nD) all of the options given are correct",
+        "groundtruth": "D"
+    },
+    {
+        "id": "fixed_0_231",
+        "question": "Confounding is a particular challenge in nutritional epidemiology because",
+        "options": "A) people change their diets over time.\nB) it is difficult to measure people's diets accurately in large studies.\nC) the are no good methods to adjust for confounding in nutritional studies.\nD) different dietary components are correlated with each other, making it difficult to separate their effects.",
+        "groundtruth": "D"
+    },
+    {
+        "id": "fixed_0_232",
+        "question": "Infants born to mothers who are vegan may be at increased risk of deficiency of which nutrient?",
+        "options": "A) Vitamin C\nB) Folate\nC) Vitamin B12\nD) Calcium",
+        "groundtruth": "C"
+    },
+    {
+        "id": "fixed_0_233",
+        "question": "Which of the following statements about proteolysis is correct?",
+        "options": "A) The rate of tissue protein catabolism is more or less constant throughout the day.\nB) All tissue proteins undergo catabolism at more or less the same rate.\nC) All proteins that are to be catabolised are tagged with the peptide ubiquitin.\nD) Lysosomal enzymes provide the only mechanism for tissue protein catabolism.",
+        "groundtruth": "A"
+    },
+    {
+        "id": "fixed_0_234",
+        "question": "Which of the following statements about plant sources of amino acids in human nutrition is correct?",
+        "options": "A) All plant protein sources are deficient in essential amino acids\nB) All plant protein sources contain all essential amino acids although some may be limited by the amount of particular amino acids\nC) All plant protein sources are deficient in lysine\nD) All plant protein sources are deficient in the sulphur amino acids acids",
+        "groundtruth": "B"
+    },
+    {
+        "id": "fixed_0_235",
+        "question": "Which of the following vitamins provides the coenzyme for oxidative decarboxylation of pyruvate?",
+        "options": "A) Folate\nB) Niacin\nC) Riboflavin\nD) Thiamin",
+        "groundtruth": "D"
+    },
+    {
+        "id": "fixed_0_236",
+        "question": "Gluten",
+        "options": "A) May increase carbohydrate malabsorption\nB) Is a constituent of avenin\nC) Is the main protein in maize\nD) May be contra-indicated in UC",
+        "groundtruth": "A"
+    },
+    {
+        "id": "fixed_0_237",
+        "question": "Adaptive thermogenesis refers to:",
+        "options": "A) A decrease in heat loss when exposed to cold\nB) A decrease in non-shivering thermogenesis when exposed to cold\nC) An increase in basal metabolic rate that is not fully explained by a change in body composition during chronic overfeeding\nD) A decrease in spontaneous physical activity during chronic overfeeding.",
+        "groundtruth": "C"
+    },
+    {
+        "id": "fixed_0_238",
+        "question": "Which of the following rules regarding the interconversion of fuels are central to the integration of metabolic pathways?",
+        "options": "A) Fatty acids can be made from and converted to carbohydrates and amino acids\nB) Carbohydrates can be made from and converted to amino acids and fatty acids\nC) Fatty acids can be made from but not converted to carbohydrates and amino acids\nD) Amino acids can be made from and converted to fatty acids",
+        "groundtruth": "C"
+    },
+    {
+        "id": "fixed_0_239",
+        "question": "Assessing growth in routine practice should be:",
+        "options": "A) Height only\nB) Weight only\nC) Weight and height\nD) Head circumference",
+        "groundtruth": "C"
+    },
+    {
+        "id": "fixed_0_240",
+        "question": "The daily amount of protein oxidized in the body of a person spending 24 hours in a respiratory chamber can be determined from his/her:",
+        "options": "A) O2 consumption alone\nB) CO2 production alone\nC) Breath collection\nD) Total urinary nitrogen excretion alone",
+        "groundtruth": "D"
+    },
+    {
+        "id": "fixed_0_241",
+        "question": "What is the primary lipoprotein secreted from the liver that is at least partially composed of dietary derived lipids?",
+        "options": "A) Chylomicrons\nB) HDL\nC) VLDL\nD) LDL",
+        "groundtruth": "C"
+    },
+    {
+        "id": "fixed_0_242",
+        "question": "Which of the following statements about the nutritional status of older people is correct?",
+        "options": "A) The risk of high iron stores is greater than the risk of iron deficiency in older people.\nB) All older people living in Western countries have low vitamin D status.\nC) There is strong evidence that vitamin C supplements lower the risk of cancer in older people.\nD) Low dietary intake of vitamin B12 is the main cause of vitamin B12 deficiency in older people.",
+        "groundtruth": "A"
+    },
+    {
+        "id": "fixed_0_243",
+        "question": "Which of the following could lead to iodine deficiency?",
+        "options": "A) Low intake of fruits and vegetables\nB) Intake only of locally grown food in central Africa\nC) Insufficient caloric intake\nD) Inadequate sunlight exposure",
+        "groundtruth": "B"
+    },
+    {
+        "id": "fixed_0_244",
+        "question": "In relation to Eating Disorders, it is correct that:",
+        "options": "A) ED have decreased their prevalence over the last decades\nB) AN has the highest mortality across all mental disorders\nC) BED occurs exclusively in obese subjects\nD) Individuals with BN are predominantly impulsive and have comorbid borderline personality disorder",
+        "groundtruth": "B"
+    },
+    {
+        "id": "fixed_0_245",
+        "question": "What are the limitations of food balance sheets? (select all that apply)?",
+        "options": "A) No account is taken of waste or losses of food\nB) Consumption estimates give higher values than those derived from other types of surveys\nC) No information is available on the distribution of consumption within a country\nD) All of the options given are correct",
+        "groundtruth": "D"
+    },
+    {
+        "id": "fixed_0_246",
+        "question": "The pancreas secretes a large amount of digestive enzymes after a meal. Which statement about this process is correct?",
+        "options": "A) Pepsinogen is the chief enzyme which digests protein and requires removal of a peptide sequence from the active cleft before it can work\nB) Pancreatic \u00e1-amylase will hydrolyse starch to free glucose\nC) Enteropeptidase converts trypsinogen to trypsin by cleavage of a peptide sequence that blocks the active site of trypsin.\nD) Pancreatic secretion of hydrochloric acid is required to provide the correct pH for maximal pancreatic enzyme in the duodenum",
+        "groundtruth": "C"
+    },
+    {
+        "id": "fixed_0_247",
+        "question": "A deficiency of which vitamin has been associated with enamel defects and increased risk of dental caries?",
+        "options": "A) Vitamin A\nB) Folic acid\nC) Vitamin C\nD) Vitamin D",
+        "groundtruth": "D"
+    },
+    {
+        "id": "fixed_0_248",
+        "question": "Which of these factors reduces the risk for cancer of the colorectum?",
+        "options": "A) Vitamin C\nB) Dietary fibre\nC) Alcohol\nD) Oestrogen",
+        "groundtruth": "B"
+    },
+    {
+        "id": "fixed_0_249",
+        "question": "Deficiencies of which of the following nutrients can lead to anaemia?",
+        "options": "A) Iodine and vitamin C\nB) Copper and iron\nC) Zinc and protein\nD) Vitamin D and zinc",
+        "groundtruth": "B"
+    },
+    {
+        "id": "fixed_0_250",
+        "question": "Which of two hormones act on the hypothalamus to increase satiety and hunger, respectively?",
+        "options": "A) Leptin and insulin\nB) Leptin and ghrelin\nC) Ghrelin and leptin\nD) Ghrelin and insulin",
+        "groundtruth": "B"
+    },
+    {
+        "id": "fixed_0_251",
+        "question": "What is the phenotype of a congenital disorder impairing the secretion of leptin?",
+        "options": "A) Normal energy intake, normal body weight and hyperthyroidism\nB) Obesity, excess energy intake, normal growth and hypoinsulinaemia\nC) Obesity, abnormal growth, hypothyroidism, hyperinsulinaemia\nD) Underweight, abnormal growth, hypothyroidism, hyperinsulinaemia",
+        "groundtruth": "C"
+    },
+    {
+        "id": "fixed_0_252",
+        "question": "What are the effects of globalisation on food security?",
+        "options": "A) Wealthy countries subsidies and trade barriers make it difficult for developing countries to take advantage of the potential of globalisation for advancing food security.\nB) World Trade Organisation rules do not cover agriculture, so globalisation really has no bearing on food security.\nC) Supermarkets are so far the only way in which food and agriculture have experienced globalisation.\nD) Developing countries need to create publicly-owned food reserves in order to realise the potential benefits.",
+        "groundtruth": "A"
+    },
+    {
+        "id": "fixed_0_253",
+        "question": "Which of the following statements is correct?",
+        "options": "A) The amount of oxygen available in the headspace of canned food is kept at a high level so as to limit losses of vitamin C\nB) Reheating canned vegetables before serving only causes small losses of vitamin C\nC) Losses of vitamin C are much higher for most canned fruits than those for canned vegetables\nD) Losses of vitamin C in canned foods during storage at ambient temperature tend to be small",
+        "groundtruth": "D"
+    },
+    {
+        "id": "fixed_0_254",
+        "question": "Which statement about Engel's law on food economics is correct?",
+        "options": "A) As income rises, the proportion of income spent on food, declines\nB) As income rises, the proportion of income spent on food, increases\nC) As income rises, the proportion of income spent on food, remains similar\nD) As income declines, the proportion of income spent on food, declines",
+        "groundtruth": "A"
+    },
+    {
+        "id": "fixed_0_255",
+        "question": "The stomach lining contains several types of cells. Which statement about them is correct?",
+        "options": "A) Mucous cells secrete the glycoprotein mucin\nB) Chief cells the hormone gastrin (which stimulates acid secretion).\nC) Parietal cells secrete pepsinogen, the inactive precursor of pepsin\nD) G Cells secrete hydrochloric acid",
+        "groundtruth": "A"
+    },
+    {
+        "id": "fixed_0_256",
+        "question": "Which of these factors increases the risk for lung cancer?",
+        "options": "A) Saturated fat\nB) Obesity\nC) High dose \u00df-carotene supplements\nD) Alcohol",
+        "groundtruth": "C"
+    },
+    {
+        "id": "fixed_0_257",
+        "question": "According to the recommendations for the nutritional management of patients with diabetes, the consumption of saturated fat should be:",
+        "options": "A) <10% of total daily energy\nB) <12%\nC) <15%\nD) <16%",
+        "groundtruth": "A"
+    },
+    {
+        "id": "fixed_0_258",
+        "question": "When using bioelectrical impedance for measuring body composition, why does an electrical current travel faster through muscle than it does through fat?",
+        "options": "A) Muscle contains less water than fat\nB) Muscle contains more water than fat\nC) Muscle weighs more than fat\nD) Muscle weighs less than fat",
+        "groundtruth": "B"
+    },
+    {
+        "id": "fixed_0_259",
+        "question": "Maternal weight gain is usually monitored in pregnancy. Which of the following statements is/are true:",
+        "options": "A) research to define pattern and level of optimal weight gain is ongoing\nB) both inadequate and excessive weight gain are associated with poorer maternal and infant health outcomes\nC) excessive maternal weight gain in pregnancy has been linked to obesity in the offspring\nD) all of the options given are correct",
+        "groundtruth": "D"
+    },
+    {
+        "id": "fixed_0_260",
+        "question": "Which of the following will provide the main fuel for muscle contraction during short-term intense activity such as sprinting?",
+        "options": "A) Muscle triacylglycerol\nB) Plasma free fatty acids\nC) Plasma triacylglycerol in VLDL\nD) Muscle glycogen",
+        "groundtruth": "D"
+    },
+    {
+        "id": "fixed_0_261",
+        "question": "How many calories should a woman eat each day during pregnancy?",
+        "options": "A) Less than 200 kCal\nB) An additional 200 kCal in the third trimester only\nC) An additional 200 kCal throughout pregnancy\nD) No change from pre-pregnant levels",
+        "groundtruth": "B"
+    },
+    {
+        "id": "fixed_0_262",
+        "question": "Which of the following will be increased in vitamin K deficiency",
+        "options": "A) The plasma concentration of calcitonin\nB) The plasma concentration of prothrombin\nC) The time for blood to clot\nD) Haemolysis due to oxidative damage to red cell membranes",
+        "groundtruth": "C"
+    },
+    {
+        "id": "fixed_0_263",
+        "question": "Which of the following contributes to reduced energy expenditure in older adults?",
+        "options": "A) A reduction in lean body mass\nB) A reduction in physical activity\nC) A reduction in basal metabolic rate\nD) All of the above",
+        "groundtruth": "D"
+    },
+    {
+        "id": "fixed_0_264",
+        "question": "Which one of following statements about nitrogen balance is correct?",
+        "options": "A) In nitrogen equilibrium the excretion of nitrogenous metabolites is greater than the dietary intake of nitrogenous compounds.\nB) Positive nitrogen balance means that there is a net loss of protein from the body\nC) In positive nitrogen balance the excretion of nitrogenous metabolites is less than the dietary intake of nitrogenous compounds.\nD) In negative nitrogen balance the excretion of nitrogenous metabolites is less than the dietary intake of nitrogenous compounds",
+        "groundtruth": "C"
+    },
+    {
+        "id": "fixed_0_265",
+        "question": "Deficiency of vitamin A in children causes:",
+        "options": "A) Goitre\nB) Poor cognitive development\nC) Poor bone growth\nD) Increased risk of mortality",
+        "groundtruth": "D"
+    },
+    {
+        "id": "fixed_0_266",
+        "question": "Which of these factors increases the risk for postmenopausal breast cancer?",
+        "options": "A) Red meat\nB) Dietary fat\nC) Fish\nD) Obesity",
+        "groundtruth": "D"
+    },
+    {
+        "id": "fixed_0_267",
+        "question": "Which of the following foods might be considered a \"goitrogen\"?",
+        "options": "A) Fish\nB) Meat\nC) Rice\nD) Brassicas",
+        "groundtruth": "D"
+    },
+    {
+        "id": "fixed_0_268",
+        "question": "Which statement best describes the differences between the characteristics of type 1 and type 2 diabetes:",
+        "options": "A) persons with type 2 diabetes usually require lower doses of insulin than person with type 1 diabetes because they have a milder form of diabetes\nB) persons with type 1 diabetes rapidly develop chronic complications\nC) autoimmune factors are involved in the pathogenesis of type 1 but not type 2 diabetes\nD) persons with type 1 diabetes can increase endogenous insulin production by taking oral hypoglycemic agents",
+        "groundtruth": "C"
+    },
+    {
+        "id": "fixed_0_269",
+        "question": "Which of the following nutritional interventions has been shown to improve child development?",
+        "options": "A) Protein-energy supplementation during pregnancy\nB) Protein-energy supplementation during the first two years\nC) Both of the interventions\nD) None of the interventions",
+        "groundtruth": "C"
+    },
+    {
+        "id": "fixed_0_270",
+        "question": "Food supplements, including trace minerals and vitamins are frequently advertised with promising health benefits. Which of the following substance could be consumed in excess, i.e. well above the recommended daily requirement?",
+        "options": "A) Vitamin C\nB) Vitamin D\nC) Zinc\nD) Vitamin A",
+        "groundtruth": "A"
+    },
+    {
+        "id": "fixed_0_271",
+        "question": "The thermic effect of food",
+        "options": "A) is substantially higher for carbohydrate than for protein\nB) is accompanied by a slight decrease in body core temperature.\nC) is partly related to sympathetic activity stimulation in the postprandial phase\nD) is not attenuated by food malabsorption.",
+        "groundtruth": "C"
+    },
+    {
+        "id": "fixed_0_272",
+        "question": "What is the primary method of dietary assessment used in epidemiological studies?",
+        "options": "A) Weighed diary\nB) Unweighed diary\nC) 24-hour recall\nD) Food frequency questionnaire",
+        "groundtruth": "D"
+    },
+    {
+        "id": "fixed_0_273",
+        "question": "Calculate the body mass index (BMI) for a patient whose height is 1.75 m and whose weight is 99 kg.",
+        "options": "A) 29\nB) 32\nC) 39\nD) 43",
+        "groundtruth": "B"
+    },
+    {
+        "id": "fixed_0_274",
+        "question": "Diagnosis of iron deficiency can be complicated by concurrent infection since many markers of iron status are altered by infection. Which of the following combinations of iron status markers is likely to be found in a person with both iron deficiency and a severe infection?",
+        "options": "A) Low haemoglobin, high ferritin, high serum transferrin receptors, high hepcidin\nB) Low haemoglobin, low ferritin, high serum transferrin receptors, low hepcidin\nC) Low haemoglobin, low ferritin, normal serum transferrin receptors, high hepcidin\nD) Low haemoglobin, low ferritin, low serum transferrin receptors, high hepcidin",
+        "groundtruth": "A"
+    },
+    {
+        "id": "fixed_0_275",
+        "question": "How much dietary protein should athletes consume daily?",
+        "options": "A) <0.8 g protein per kg bodyweight per day\nB) 0.8-1.2 g protein per kg bodyweight per day\nC) 1.2-1.7 g protein per kg bodyweight per day\nD) >2.0 g protein per kg bodyweight per day",
+        "groundtruth": "C"
+    },
+    {
+        "id": "fixed_0_276",
+        "question": "Which vitamins are important in lowering circulating homocysteine levels",
+        "options": "A) Vitamin D\nB) Vitamin C\nC) Vitamin A\nD) Folate, vitamins B6 and B12",
+        "groundtruth": "D"
+    },
+    {
+        "id": "fixed_0_277",
+        "question": "The function of the gastrointestinal tract can be classified in several ways. Which of the following functions is most important for survival immediately after a meal?",
+        "options": "A) Absorption and retention of water and electrolytes\nB) Elimination of toxins\nC) Maintenance of barrier function\nD) Extraction of maximum value from nutrients",
+        "groundtruth": "A"
+    },
+    {
+        "id": "fixed_0_278",
+        "question": "Which single statement below, about the stomach, is actually correct?",
+        "options": "A) Acid secretion occurs in response to secretion of the hormone, carbonic anhydrase\nB) Glands called Peyer's patches are responsible for acid secretion\nC) The vagus nerve inhibits acid secretion after a meal has been consumed\nD) Pepsinogen and gastric lipase are two enzymes secreted into the lumen of the stomach",
+        "groundtruth": "D"
+    },
+    {
+        "id": "fixed_0_279",
+        "question": "The best evidence exists for which nutrients in the prevention of age related cognitive decline?",
+        "options": "A) N-3 fatty acids\nB) Phytochemical\nC) N-6 fatty acids\nD) Long chain saturated fats",
+        "groundtruth": "A"
+    },
+    {
+        "id": "fixed_0_280",
+        "question": "Which diseases are not less frequent among vegetarians?",
+        "options": "A) Respiratory diseases\nB) Colorectal cancer\nC) Ischaemic heart disease\nD) Diverticular disease",
+        "groundtruth": "A"
+    },
+    {
+        "id": "fixed_0_281",
+        "question": "For Binge Eating Disorder it is incorrect that:",
+        "options": "A) Binge Eating episodes in BED are usually richer in calories than those of BN, leading patients to obesity\nB) BED patients have higher odds of developing obesity\nC) Bariatric surgery can be considered a treatment option for mild cases\nD) Spontaneous remission is a possible outcome",
+        "groundtruth": "A"
+    },
+    {
+        "id": "fixed_0_282",
+        "question": "Although theoretically any food protein could act as a food allergen, there are eight major food allergens in Europe and North America which account for most of the allergic triggers observed in childhood. Which of the allergens pairings contains an allergen, which is not part of the group of eight major allergens?",
+        "options": "A) Cow's milk, egg\nB) Mustard seeds, lamb,\nC) Soy, peanuts\nD) Fish, shellfish",
+        "groundtruth": "B"
+    },
+    {
+        "id": "fixed_0_283",
+        "question": "Prenatal programming:",
+        "options": "A) Explains the rise in obesity in the pre-school years\nB) May be effected through the epigenetic effects of intrauterine nutritional inadequacy\nC) Causes high blood pressure in young children\nD) Only affects low birth weight children",
+        "groundtruth": "B"
+    },
+    {
+        "id": "fixed_0_284",
+        "question": "The best available evidence for an association between amount of sugars and risk of dental caries comes from which type of study design?",
+        "options": "A) Randomised controlled\nB) Non-randomised controlled\nC) Cross sectional observational\nD) Cohort",
+        "groundtruth": "D"
+    },
+    {
+        "id": "fixed_0_285",
+        "question": "Which of the following statements about nutritional status and health outcomes is correct?",
+        "options": "A) Hypertension in older people is unlikely to be associated with high salt intake.\nB) There is strong evidence that supplements of vitamin B12 will improve cognitive function in older people.\nC) Older people are no more likely to have low haemoglobin concentration than younger people.\nD) Folate deficiency in older people is less prevalent in countries with mandatory fortification of flour with folic acid.",
+        "groundtruth": "D"
+    },
+    {
+        "id": "fixed_0_286",
+        "question": "Which of the following statements about the consequence of an adaptive metabolic demand for the determination of the minimum protein requirement is correct.",
+        "options": "A) Adaptation is fully accounted for in the design of nitrogen balance studies.\nB) The adaptive metabolic demand means that the slope of N-balance studies underestimates the efficiency of protein utilization\nC) Variable adaptation between different N-balance studies is fully accounted for in the calculation of the safe individual protein requirement as EAR+2SD\nD) Adaptation should not influence the interpretation of N-balance studies.",
+        "groundtruth": "B"
+    },
+    {
+        "id": "fixed_0_287",
+        "question": "De novo fatty acid synthesis usually signifies which of the following?",
+        "options": "A) An excess of fat intake\nB) A depletion of energy yielding substrates\nC) Only occurs with prolonged fasting\nD) An excess of energy yielding substrates",
+        "groundtruth": "D"
+    },
+    {
+        "id": "fixed_0_288",
+        "question": "Which of the following lipoproteins is produced via the exogenous lipoprotein pathway?",
+        "options": "A) High density lipoproteins\nB) Very low density lipoproteins\nC) Chylomicrons\nD) Low density lipoproteins",
+        "groundtruth": "C"
+    },
+    {
+        "id": "fixed_0_289",
+        "question": "The following types of research findings provide strong evidence for an association between diet and skeletal health:",
+        "options": "A) Long-term intervention studies that have a large sample size with fracture as an endpoint\nB) Experimental studies which measure bone remodelling through biochemical markers\nC) Experimental studies which have a one-off measure of bone mineral density and bone mineral content\nD) Case reports from individual patients",
+        "groundtruth": "A"
+    },
+    {
+        "id": "fixed_0_290",
+        "question": "Which vitamin is required for vision in dim light?",
+        "options": "A) Vitamin A\nB) Vitamin D\nC) Vitamin E\nD) Vitamin K",
+        "groundtruth": "A"
+    },
+    {
+        "id": "fixed_0_291",
+        "question": "The amount and composition of dietary fat are important factors for influencing blood lipid metabolism. Which of the following statements is correct?",
+        "options": "A) Replacement of saturated fatty acids with n-6 polyunsaturated fatty acids is associated with a reduction in plasma triglyceride concentrations\nB) Replacement of saturated fatty acids with monounsaturated fatty acids is associated with an increase in LDL cholesterol\nC) Consumption of soluble dietary fibre and plant stanols/sterols is associated with a significant increases in LDL cholesterol\nD) Replacement of saturated fatty acids with large amounts of carbohydrate is associated with decreased LDL and increased plasma triglyceride concentrations",
+        "groundtruth": "D"
+    },
+    {
+        "id": "fixed_0_292",
+        "question": "Additional dietary protein may:",
+        "options": "A) Increase risk of hip fracture\nB) Decrease calcium excretion in the urine\nC) Stimulate production of insulin-like growth hormone\nD) Reduce muscle mass and strength",
+        "groundtruth": "C"
+    },
+    {
+        "id": "fixed_0_293",
+        "question": "Greater milk consumption",
+        "options": "A) Has been reported to be associated with a higher incidence of fracture and higher mortality in a few studies\nB) During puberty seems to be associated with higher bone mineral density in later life\nC) Is consistently associated with a lower rate of fractures\nD) In countries with the highest rate of fracture suggests that milk consumption is beneficial to the skeleton.",
+        "groundtruth": "A"
+    },
+    {
+        "id": "fixed_0_294",
+        "question": "It is correct to state about the epidemiology of Anorexia Nervosa that:",
+        "options": "A) Females are three times more affected than males\nB) It never happens in children or post menopausal women\nC) Males from any socioeconomic background can be affected\nD) Prevalence rates are 2% for female adolescents",
+        "groundtruth": "C"
+    },
+    {
+        "id": "fixed_0_295",
+        "question": "What should elite athletes ideally consume during prolonged high intensity exercise (>2.5 hours)?",
+        "options": "A) 60 g glucose per hour\nB) 60 g glucose plus fructose per hour\nC) 90 g glucose per hour\nD) 90 g glucose plus fructose per hour",
+        "groundtruth": "D"
+    },
+    {
+        "id": "fixed_0_296",
+        "question": "What endogenous substrate source provides the most energy during moderate to high intensity exercise?",
+        "options": "A) Liver glycogen\nB) Muscle glycogen\nC) Intramuscular lipid\nD) Adipose tissue lipid",
+        "groundtruth": "B"
+    },
+    {
+        "id": "fixed_0_297",
+        "question": "How does agricultural research help reduce hunger and poverty?",
+        "options": "A) Transnational private-sector firms are the main source of research oriented towards poor farmers and consumers.\nB) Agricultural research mainly benefits commercial farmers in developed countries.\nC) Research focused on the problems of poor farmers and consumers is a 'public good' with little profit potential but high social benefits; public investment is needed to support it.\nD) Pro-poor research should only focus on organic farming.",
+        "groundtruth": "C"
+    },
+    {
+        "id": "fixed_0_298",
+        "question": "Severe acute malnutrition in young children is defined as:",
+        "options": "A) Weight-for-age Z score <-3\nB) Height-for-age Z score <-3 and oedema\nC) Height-for-age Z score <-3 or weight-for-height Z score <-3 or oedema\nD) Height-for-age Z score <-3 or weight-for-age Z score <-3 or oedema",
+        "groundtruth": "C"
+    },
+    {
+        "id": "fixed_0_299",
+        "question": "What are the main metabolites of alcohol metabolism?",
+        "options": "A) Acetaldehyde, acetate,\nB) Pyruvate, beta-hydroxybutyrate,\nC) Acetyl-CoA, lipids,\nD) Acetone, lactate",
+        "groundtruth": "A"
+    },
+    {
+        "id": "fixed_0_300",
+        "question": "Energy that is expended for standing at an office desk, walking to a file cabinet, and other office job-related activities is referred to the following energy expenditure component:",
+        "options": "A) Non-exercise activity thermogenesis (NEAT)\nB) Structured (volitional) exercise activity thermogenesis\nC) Physical activity (non-resting) energy expenditure\nD) Basal metabolic rate",
+        "groundtruth": "A"
+    },
+    {
+        "id": "fixed_0_301",
+        "question": "Are most developing-country farmers engaged in subsistence or commercial production?",
+        "options": "A) Almost all are subsistence farmers.\nB) Very few engage in subsistence production, instead selling almost all of their produce on the market.\nC) Virtually all small-scale producers are engage in some self-provisioning and market sales.\nD) 37% engage in pure subsistence production.",
+        "groundtruth": "C"
+    },
+    {
+        "id": "fixed_0_302",
+        "question": "Which of the following statements about protein synthesis is correct?",
+        "options": "A) All the information in DNA codes for proteins\nB) The mRNA formed by transcription of a region of DNA only contains information for the protein to be synthesised.\nC) Both strands of DNA are transcribed to form mRNA.\nD) The RNA formed by transcription of DNA undergoes splicing and further modifications to form mRNA.",
+        "groundtruth": "D"
+    },
+    {
+        "id": "fixed_0_303",
+        "question": "Which of the following is closest to the amount of retinol formed from \u00df-carotene?",
+        "options": "A) 2 mol retinol /mol \u00df-carotene\nB) 1 mol retinol /mol \u00df-carotene\nC) 0.15 mol retinol /mol \u00df-carotene\nD) 0.1 mol retinol /mol \u00df-carotene",
+        "groundtruth": "C"
+    },
+    {
+        "id": "fixed_0_304",
+        "question": "From the list of oral microorganisms, which is primarily responsible for the initiation of dental caries?",
+        "options": "A) Mutans streptococci\nB) bifidobacteria\nC) Lactobacilli\nD) P. gingivalis",
+        "groundtruth": "A"
+    },
+    {
+        "id": "fixed_0_305",
+        "question": "Which statement about the oral phase of digestion is INCORRECT?",
+        "options": "A) About 2% of the energy content of food is expended during the action of chewing and swallowing it.\nB) Swallowing involves contraction and relaxation of at least 14 groups of muscles in about 10 seconds in healthy subjects\nC) The biofilm covering tooth enamel contains several salivary and bacterial enzymes\nD) Salivary amylase digests the dextran film on tooth enamel formed from dietary sucrose",
+        "groundtruth": "D"
+    }
+]

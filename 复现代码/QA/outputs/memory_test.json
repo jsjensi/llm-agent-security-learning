@@ -1,0 +1,92 @@
+[
+    {
+        "id": "test_1",
+        "question": "Which statement about Engel's law on food economics is correct?",
+        "options": "A) As income rises, the proportion of income spent on food, declines\nB) As income rises, the proportion of income spent on food, increases\nC) As income rises, the proportion of income spent on food, remains similar\nD) As income declines, the proportion of income spent on food, declines",
+        "thought": "Engel's law states that as income increases, the proportion of income spent on food decreases, even though the absolute amount may increase. This is because food is a necessity, and as people get richer, they spend a smaller share of their income on food. Therefore, option A is correct.",
+        "answer": "A",
+        "groundtruth": "A",
+        "correct": true
+    },
+    {
+        "id": "test_2",
+        "question": "Infants and children with a suspected food allergy e.g. cow's milk allergy/intolerance could display the following symptoms and signs:",
+        "options": "A) severe atopic dermatitis\nB) enterocolitis\nC) diarrhoea\nD) all of the above",
+        "thought": "The question asks about symptoms and signs of suspected food allergy, specifically cow's milk allergy/intolerance, in infants and children. Cow's milk allergy can manifest with various symptoms. Severe atopic dermatitis (option A) is a common skin manifestation of food allergy in infants. Enterocolitis (option B), specifically food protein-induced enterocolitis syndrome (FPIES), is a gastrointestinal reaction to cow's milk protein. Diarrhoea (option C) is also a common gastrointestinal symptom of cow's milk allergy/intolerance. Since all three symptoms are recognized presentations of cow's milk allergy in infants and children, the correct answer is 'all of the above' (option D).",
+        "answer": "D",
+        "groundtruth": "D",
+        "correct": true
+    },
+    {
+        "id": "test_3",
+        "question": "Which of the following foods might be considered a \"goitrogen\"?",
+        "options": "A) Fish\nB) Meat\nC) Rice\nD) Brassicas",
+        "thought": "Goitrogens are substances that interfere with thyroid function by inhibiting iodine uptake or thyroid peroxidase activity. Foods rich in goitrogens include cruciferous vegetables, which belong to the Brassica family (e.g., cabbage, broccoli, cauliflower, Brussels sprouts). Fish, meat, and rice are not typically considered goitrogenic. Therefore, the correct answer is D.",
+        "answer": "D",
+        "groundtruth": "D",
+        "correct": true
+    },
+    {
+        "id": "test_4",
+        "question": "Risk management for chemical contaminants of food generally relies on:",
+        "options": "A) Banning of the contaminant from food\nB) Allowing levels of contamination based on what manufacturers believe is achievable\nC) Banning any food found to contain detectable amounts of the contaminants\nD) Prohibiting the introduction into commerce food containing contaminants at levels greater than a specified level (a risk-based MRL or tolerance)",
+        "thought": "Risk management for chemical contaminants in food is typically based on establishing safe levels, often through risk assessment. These levels, known as maximum residue limits (MRLs) or tolerances, are set based on scientific evaluation of toxicity and exposure. Foods containing contaminants above these specified levels are prohibited from entering commerce. Therefore, the correct approach is not a complete ban (A or C) or industry-determined levels (B), but rather setting and enforcing risk-based limits.",
+        "answer": "D",
+        "groundtruth": "D",
+        "correct": true
+    },
+    {
+        "id": "test_5",
+        "question": "What role do women play in food security?",
+        "options": "A) Their main role is preparing meals.\nB) They play a central role as producers of food, managers of natural resources, income earners and caretakers of household nutrition.\nC) They weed the fields, but never plough or plant them, as only men are strong enough for those activities.\nD) Their efforts focus mainly on vegetable gardens and chickens; men are involved with cereal crops and larger livestock.",
+        "thought": "The question asks about the role of women in food security. Option B provides a comprehensive and accurate description, highlighting women's multiple roles as producers, resource managers, income earners, and caretakers of household nutrition. This aligns with widely recognized perspectives in food security literature. Options A, C, and D present stereotypical or incomplete views that do not capture the full scope of women's contributions. Therefore, the correct answer is B.",
+        "answer": "B",
+        "groundtruth": "B",
+        "correct": true
+    },
+    {
+        "id": "test_6",
+        "question": "A food additive is considered to be safe when:",
+        "options": "A) No evidence of human toxicity has been observed over the period of its use\nB) Estimated Daily Intake (EDI) from its presence in food is less than its ADI\nC) Its toxic effects are observed only at doses 100x the EDI\nD) Its benefits outweigh its risks",
+        "thought": "The question asks about the condition under which a food additive is considered safe. In toxicology and food safety, the key principle is that the Estimated Daily Intake (EDI) must be less than the Acceptable Daily Intake (ADI). The ADI is the amount that can be consumed daily over a lifetime without appreciable health risk. If the EDI is below the ADI, the additive is considered safe. Option A is not sufficient because absence of observed toxicity in history does not guarantee safety. Option C is not a standard criterion; a 100x margin is used in establishing ADI from NOAEL, not as a direct safety condition. Option D is about risk-benefit, which is not the primary definition of safety. Therefore, the correct answer is B.",
+        "answer": "B",
+        "groundtruth": "B",
+        "correct": true
+    },
+    {
+        "id": "test_7",
+        "question": "What are the limitations of food balance sheets? (select all that apply)?",
+        "options": "A) No account is taken of waste or losses of food\nB) Consumption estimates give higher values than those derived from other types of surveys\nC) No information is available on the distribution of consumption within a country\nD) All of the options given are correct",
+        "thought": "The question asks about limitations of food balance sheets. Food balance sheets provide data on food availability at a national level, not actual consumption. They do not account for waste or losses after the retail level, so option A is a limitation. They often overestimate consumption compared to household surveys because they include all food available, including waste, so option B is also a limitation. They provide aggregate data and do not show distribution across different population groups within a country, so option C is a limitation as well. Since all three are valid limitations, option D, which states all options are correct, is the right answer.",
+        "answer": "D",
+        "groundtruth": "D",
+        "correct": true
+    },
+    {
+        "id": "test_8",
+        "question": "The two most common causes of foodborne illness in the United States and Europe are:",
+        "options": "A) Salmonella and Campylobacter\nB) Listeria and Salmonella\nC) Shigella and Staphlococcus\nD) E. coli STECs and non-STEC subtypes",
+        "thought": "The question asks for the two most common causes of foodborne illness in the United States and Europe. According to public health data (e.g., CDC and EFSA), the most frequently reported bacterial causes of foodborne illness are Salmonella and Campylobacter. Listeria is less common but more severe. Shigella and Staphylococcus are less common overall. E. coli STECs are also less frequent compared to Salmonella and Campylobacter. Therefore, the correct answer is A.",
+        "answer": "A",
+        "groundtruth": "A",
+        "correct": true
+    },
+    {
+        "id": "test_9",
+        "question": "Although theoretically any food protein could act as a food allergen, there are eight major food allergens in Europe and North America which account for most of the allergic triggers observed in childhood. Which of the allergens pairings contains an allergen, which is not part of the group of eight major allergens?",
+        "options": "A) Cow's milk, egg\nB) Mustard seeds, lamb,\nC) Soy, peanuts\nD) Fish, shellfish",
+        "thought": "The question asks which pairing contains an allergen not part of the eight major food allergens. The eight major allergens are: cow's milk, eggs, fish, shellfish, tree nuts, peanuts, wheat, and soybeans. Option A includes cow's milk and egg, both are in the list. Option C includes soy and peanuts, both are in the list. Option D includes fish and shellfish, both are in the list. Option B includes mustard seeds and lamb. Mustard is not one of the eight major allergens (though it is a recognized allergen in some regions, it is not in the top eight), and lamb is not typically listed among the eight major allergens either. Therefore, option B contains allergens not part of the group of eight.",
+        "answer": "B",
+        "groundtruth": "B",
+        "correct": true
+    },
+    {
+        "id": "test_10",
+        "question": "The 'mad cows disease' has had the greatest impact on food choice due to which of the following?",
+        "options": "A) A difference in perception of risk\nB) Higher prices of meat\nC) Farmers or food producers not trusting the government\nD) Scientists investigating alternatives for meat",
+        "thought": "Mad cow disease (BSE) primarily influenced food choices because consumers perceived the risk of eating beef as high, even though the actual scientific risk was very low. This gap between expert risk assessment and public perception led to major changes in meat consumption. Higher prices were a consequence, not the main driver. Farmers' distrust and scientists' alternatives are secondary or unrelated. Thus, the greatest impact was due to a difference in perception of risk.",
+        "answer": "A",
+        "groundtruth": "A",
+        "correct": true
+    }
+]
